@@ -107,6 +107,13 @@ This time the video was recorded for the Microsoft Ready 2018 conference, trough
 
 ![Digital Ready](./images/dr.JPG)
 
+## Cognitive Search Webinar - March 2018
+
+Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar here(https://www.youtube.com/watch?v=ll10PTrV0oM&t).
+
+![Digital Ready](./images/jfk-webinar.PNG)
+
+
 ## LearnAI Bootcamps - Europe - February, March 2018
 
 Another trip to teach AI around the world. The content was the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp), whose content was Cognitive Services, Azure Search and Bots. The first stop was London, the second was Lisbon, the photo below.

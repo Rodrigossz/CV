@@ -58,6 +58,7 @@ I had the honor to have this training added to [Microsoft AI School](https://ais
 
 Blog posts is something new, started on June 2019. We are the ACE Team now, AI Customer Engineering, and we have our own Microsoft Tech Community Blog. It is an honor to write for an official Microsoft Blog. For now my posts are:
 
++ **Soon: Mine knowledge from audio data with Azure Services**
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 
 
@@ -65,76 +66,90 @@ Blog posts is something new, started on June 2019. We are the ACE Team now, AI C
 
 Since 2017, I could be Speaker/Presenter dozens of times, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, Global Black Belts (GBBs) Airlift, Inspire, and Microsoft Ready. There was also the LearnAI Bootcamps, when Microsoft AI Organization decided to invest on internal + partners readiness. 
 
+### Microsoft Certified Hackathon Leader, Gold Speaker, and Trainer
+
 All that conferences helped me to achieve important Microsoft certifications like Hackathon Leader, Gold Speaker and Certified Trainer. The image below has all Microsoft Certifications I have. There is more to come...
 
 ![Badges](./images/badges.JPG)
 
-## Microsoft Content Moderator Webinar (live) - April 2019
+### Performance as an Instructor
+
+The dashboard below has details of my deliveries as an AI Instructor: locations, technologies, scores, etc.
+
+![Dashboard](./images/dashboard.PNG)
+
+Another im
+
+### Microsoft Content Moderator Webinar (live) - April 2019
 
 This webinar was part of the Microsoft AI Inner Circle Partner Program, when I could talk about this important Cognitive Service for hundreds of people. You can see part of the recordings [here](https://www.youtube.com/watch?v=lrCkzINAFQQ&t=34s).
 
 ![Content Moderator Webinar](./images/content-moderator-webinar-march-2019.PNG)
 
-## Intelligent Cloud Bootcamp - Best Speaker - April 2019
+### Intelligent Cloud Bootcamp - Best Speaker - April 2019
 
 My Knowledge Mining session had the best satisfaction score of the conference.
 
 ![Best](./images/best.JPG)
 
 
-## Microsoft LearnAI Airlift - World Tour - February 2019
+### Microsoft LearnAI Airlift - World Tour - February 2019
 
 I had the opportinity to deliver the [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift), created by me in part, in Singapore, Sydney and Amsterdam. The satisfaction of the audience I obtained was 198/200, practically as much as possible. The technologies taught were Vision API, Custom Vision, CosmosDb, Bots, and Azure Search. The photo below was taken in Amsterdam.
 
 ![Amsterdam Arena](./images/arena.JPG)
 
-## Azure TV - Knowledge Mining Workshop (live + pre-recorded) - January 2019
+### Azure TV - Knowledge Mining Workshop (live + pre-recorded) - January 2019
 
 This "TV Show" was the first Microsoft training that mixed pre-recorded (content) and live videos (questions). It was two days of transmission, 3 hours each day. But the project demanded a lot of preparation. The basic technologies presented were Cognitive Search and Translator API. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t=31s).
 
 ![KM Workshop](./images/kmw.PNG)
 
-## MLADS - November 2018
+### MLADS - November 2018
 
 MLADS is Microsoft's Machine Learning and Data Science Conference. I had a session on Microsoft Azure Cognitive Services.
 
 ![MLADS](./images/mlads-2018.jpeg)
 
 
-## Digital Ready - Cognitive Search Webinar - Pre Recorded - May 2018
+### Digital Ready - Cognitive Search Webinar - Pre Recorded - May 2018
 
 This time the video was recorded for the Microsoft Ready 2018 conference, trough its Digital Ready channel.
 
 ![Digital Ready](./images/dr.JPG)
 
-## Cognitive Search Webinar - March 2018
+### Cognitive Search Webinar - March 2018
 
 Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar here(https://www.youtube.com/watch?v=ll10PTrV0oM&t).
 
 ![Digital Ready](./images/jfk-webinar.PNG)
 
 
-## LearnAI Bootcamps - Europe - February, March 2018
+### LearnAI Bootcamps - Europe - February, March 2018
 
 Another trip to teach AI around the world. The content was the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp), whose content was Cognitive Services, Azure Search and Bots. The first stop was London, the second was Lisbon, the photo below.
 
 ![Lisbon 1](./images/lisbon1.jpg)
 ![Lisbon 2](./images/lisbon2.jpg)
 
-## Data Science Workshop - Leveraging Azure Machine Learning for TDSP and DevOps - Februrary 2018
+### Data Science Workshop - Leveraging Azure Machine Learning for TDSP and DevOps - Februrary 2018
 
 Interesting session delivered at the Intelligent Cloud Bootcamp, a partners ship with Buck Woody, a big Data and AI authority within Microsoft.
 
 ![ICB](./images/icb-feb-2018.jpg)
 
-## IoT + Modern Data Warehouse solution for Wind Farms - August 2017
+## Been a Microsoft Azure Cloud Solutions Architect
+
+Some cool projects from my CSA role.
+
+### IoT + Modern Data Warehouse solution for Wind Farms - August 2017
 
 The client was installing the biggest Wind Farms of the country and they were looking for real time monitoring. Again I suggested the idea to cross validade the data with other data sources and we did a POC. It went very well and a vendor was hired to implement the solution. SAP data ingestion and weather forecast were a key diferentiators, as weel as the real time PBI dashboards.
 
 ![IoT](./images/cool-arch2.PNG)
 
 
-## Data Lake for IoT + CRM + ERP Data - March 2017
+### Data Lake for IoT + CRM + ERP Data - March 2017
 
 The client was a giant company with industrial facilities distributed throughout the country. There were several parallel requirements such as: CIO needing to archive data from the CRM appliance, COO wanting to cross IoT data with transactional systems, CMO wanting to understand the behavior of customers.
 
@@ -146,7 +161,11 @@ The final data architecture is in the image below.
 
 ![IoT](./images/cool-arch.PNG)
 
-## Data Hub (or Data Lake) - PSafe - 5th most downloaded App in Play Store Brazil - 2014
+## Big Data projects from previous jobs
+
+Some interesting old projects and achievments.
+
+### Data Hub (or Data Lake) - PSafe - 5th most downloaded App in Play Store Brazil - 2014
 
 PSafe reached 30MM of MAU, all generating a gigantic amount of LOGs. Something like 1 TB a day. Hadoop was used by it was hard to understand and to use the data. I worked there before and returned to the company as a leader in the data area, to reorganize the data infrastructure. We created a data lake to make sure we were storing and analysing the correct data. 
 
@@ -162,7 +181,7 @@ The project used Cloudera, including HIVE/PIG for batch processing and Impala fo
 ![PSafe6](./images/psafe-data-arch6.PNG)
 
 
-## Innovation! Creating a MPP DW in 2007 - 2008
+### Innovation! Creating a MPP DW in 2007 - 2008
 
 I am very proud of this project. Using SQL Server 2008 RS, [Microsoft Fast Track Reference Architecture](https://www.jamesserra.com/archive/2011/09/microsoft-sql-server-reference-architecture-and-appliances/), and very simple HW, I created a MPP DW for the Bank where I was working. Had to scale out since the data volume was bigger than the total space of the biggest server available. A real Big Data problem, solved with lots of study and criativity. 
 

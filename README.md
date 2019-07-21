@@ -118,7 +118,7 @@ This time the video was recorded for the Microsoft Ready 2018 conference, trough
 
 ### Cognitive Search Webinar - March 2018
 
-Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar here(https://www.youtube.com/watch?v=ll10PTrV0oM&t).
+Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar [here](https://www.youtube.com/watch?v=ll10PTrV0oM&t).
 
 ![Digital Ready](./images/jfk-webinar.PNG)
 

@@ -78,7 +78,7 @@ All that conferences helped me to achieve important Microsoft certifications lik
 
 The dashboard below has details of my deliveries as an AI Instructor: locations, technologies, scores, etc.
 
-![Dashboard](./images/dasboard.PNG)
+![Dashboard](./images/dashboard.jpg)
 
 ### Microsoft Content Moderator Webinar (live) - April 2019
 

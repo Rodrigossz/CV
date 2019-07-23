@@ -29,7 +29,7 @@ Here are some of the trainings I helped to develop. For some of them, I just did
 + [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
 
-### KMB - Special Comments
+### KMB - Details
 
 KMB, the first item in the list above, deserves more detailed comments: It was created by me, in partnership with the Product Team and some colleagues of the LearnAI Team of course. The image below is the solution architecture that you will build if you follow the course labs. 
 

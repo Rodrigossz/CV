@@ -11,7 +11,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ## Key Personal Links 
 
-+ LinkedIn - https://www.linkedin.com/in/rodrigossz/
++ LinkedIn Profile - https://www.linkedin.com/in/rodrigossz/
 + LinkedIn Articles - https://www.linkedin.com/in/rodrigossz/detail/recent-activity/posts/
 + Data is the New Oil - https://datanewoil.tumblr.com/
 + AI demos, labs, repos - http://aka.ms/ai-links
@@ -29,7 +29,9 @@ Here are some of the trainings I helped to develop. For some of them, I just did
 + [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
 
-**KMB**, first one in the list above, deserves more detailed comments: It was created by me, in partnership with the Product Team and some colleagues of the LearnAI Team of course. The image below is the solution architecture that you will build if you follow the course labs. 
+### KMB - Special Comments
+
+KMB, the first item in the list above, deserves more detailed comments: It was created by me, in partnership with the Product Team and some colleagues of the LearnAI Team of course. The image below is the solution architecture that you will build if you follow the course labs. 
 
 ![KMB](./images/cool-arch-kmb.PNG)
 

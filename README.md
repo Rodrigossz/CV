@@ -194,10 +194,13 @@ Interesting points of this project:
 + Self Service BI on top of this, with Excel and a dynamic query interface too.
 + This project won The Brazilian Bank Industry Award (CIAB) in 2008.
 
-![MPP1](./images/lemon-mpp.PNG)
-![MPP2](./images/lemon-mpp-2.PNG)
-![Award1](./images/lemon-trofeu-2008-ciab1.jpg)
-![Award2](./images/lemon-trofeu-2008-ciab2.jpg)
+MPP Database 1  | MPP Database 2
+:--------------:|:--------------: 
+![MPP1](./images/lemon-mpp.PNG) | ![MPP2](./images/lemon-mpp-2.PNG)
+
+Award 1  | Award 2
+:--------------:|:--------------: 
+![Award1](./images/lemon-trofeu-2008-ciab1.jpg) | ![Award2](./images/lemon-trofeu-2008-ciab2.jpg)
 
 
 ## To Be Added - Data Lake in a Brazilian E-Commerce Giant

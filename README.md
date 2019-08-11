@@ -207,3 +207,9 @@ Interesting points of this project:
 ## To Be Added - Innovation award in a HP - 2013
 
 ## To Be Added - Innovation award in a Bank - 2008
+
+## Professional Photos by Microsoft
+
+MGX - Orlando, July 2016         |  Discovery Day - Redmond, July 2019
+:-------------------------:|:-------------------------:
+![Orlando](./images/rodrigo-mgx-2016.jpg)  |  ![Redmond](./images/rodrigo-discoveryday-2019.jpg)

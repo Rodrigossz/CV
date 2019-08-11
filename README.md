@@ -60,7 +60,7 @@ I had the honor to have this training added to [Microsoft AI School](https://ais
 
 Blog posts is something new, started on June 2019. We are the ACE Team now, AI Customer Engineering, and we have our own Microsoft Tech Community Blog. It is an honor to write for an official Microsoft Blog. For now my posts are:
 
-+ **Soon: Mine knowledge from audio data with Azure Services**
++ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957)
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 
 
@@ -129,8 +129,9 @@ Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the b
 
 Another trip to teach AI around the world. The content was the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp), whose content was Cognitive Services, Azure Search and Bots. The first stop was London, the second was Lisbon, the photo below.
 
-![Lisbon 1](./images/lisbon1.jpg)
-![Lisbon 2](./images/lisbon2.jpg)
+Lisbon 1  | Lisbon 2
+:--------------:|:--------------: 
+![Lisbon 1](./images/lisbon1.jpg) | ![Lisbon 2](./images/lisbon2.jpg)
 
 ### Data Science Workshop - Leveraging Azure Machine Learning for TDSP and DevOps - Februrary 2018
 

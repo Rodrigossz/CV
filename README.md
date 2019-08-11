@@ -174,12 +174,10 @@ The project used Cloudera, including HIVE/PIG for batch processing and Impala fo
 
 **Today, Julhe of 2019, this structure is still used, practically unchanged.**
 
-![PSafe1](./images/psafe-data-arch1.PNG)
-![PSafe2](./images/psafe-data-arch2.PNG)
-![PSafe3](./images/psafe-data-arch3.PNG)
-![PSafe4](./images/psafe-data-arch4.PNG)
-![PSafe5](./images/psafe-data-arch5.PNG)
-![PSafe6](./images/psafe-data-arch6.PNG)
+Data Architecture 1  | Data Architecture 2 | Data Architecture 3
+:--------------:|:--------------:|:--------------: 
+![PSafe1](./images/psafe-data-arch1.PNG) | ![PSafe2](./images/psafe-data-arch2.PNG) | ![PSafe3](./images/psafe-data-arch3.PNG)
+![PSafe4](./images/psafe-data-arch4.PNG) | ![PSafe5](./images/psafe-data-arch5.PNG) | ![PSafe6](./images/psafe-data-arch6.PNG)
 
 
 ### Innovation! Creating a MPP DW in 2007 - 2008

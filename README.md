@@ -182,7 +182,7 @@ Data Architecture 1  | Data Architecture 2 | Data Architecture 3
 
 ### Innovation! Creating a MPP DW in 2007 - 2008
 
-I am very proud of this project. Using SQL Server 2008 RS, [Microsoft Fast Track Reference Architecture](https://www.jamesserra.com/archive/2011/09/microsoft-sql-server-reference-architecture-and-appliances/), and very simple HW, I created a MPP DW for the Bank where I was working. Had to scale out since the data volume was bigger than the total space of the biggest server available. A real Big Data problem, solved with lots of study and criativity. 
+I am very proud of this project. Using SQL Server 2008 RS, [Microsoft Fast Track Reference Architecture](https://www.jamesserra.com/archive/2011/09/microsoft-sql-server-reference-architecture-and-appliances/), and very simple HW, I created a MPP DW for Lemon Bank, where I was working since 2002. I had to find a way to scale out, since the data volume was bigger than the total space of the biggest server available. A real Big Data problem, solved with lots of study and criativity. 
 
 **Today, Julhe of 2019, this structure is still used, practically unchanged.**
 
@@ -208,7 +208,7 @@ Award 1  | Award 2
 
 ## To Be Added - Innovation award in a HP - 2013
 
-## Innovation award - Lemon Bank - 2007
+## Innovation award! Lemon Bank - 2007
 
 In 2008 I was working for this Fintech and the all company was challenged to create a product to increase revenew. It was not expected  that someone from IT would give a suggestion to the business area. But I'm very creativity and I won it! I suggested a remuneration model for the employees of the affiliated networks. The screenshot below is a screenshot of the bank's intranet, with my photo illustrating the winning idea. The project was implementing and worked as expected
 

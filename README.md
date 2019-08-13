@@ -208,7 +208,11 @@ Award 1  | Award 2
 
 ## To Be Added - Innovation award in a HP - 2013
 
-## To Be Added - Innovation award in a Bank - 2008
+## Innovation award - Lemon Bank - 2007
+
+In 2008 I was working for this Fintech and the all company was challenged to create a product to increase revenew. It was not expected  that someone from IT would give a suggestion to the business area. But I'm very creativity and I won it! I suggested a remuneration model for the employees of the affiliated networks. The screenshot below is a screenshot of the bank's intranet, with my photo illustrating the winning idea. The project was implementing and worked as expected
+
+![Lemon Bank Intranet](./images/intranet-lemon.jpg)
 
 ## Professional Photos by Microsoft
 

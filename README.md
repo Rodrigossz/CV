@@ -180,7 +180,7 @@ Data Architecture 1  | Data Architecture 2 | Data Architecture 3
 ![PSafe4](./images/psafe-data-arch4.PNG) | ![PSafe5](./images/psafe-data-arch5.PNG) | ![PSafe6](./images/psafe-data-arch6.PNG)
 
 
-### Innovation! Creating a MPP DW in 2007 - 2008
+### Innovation - Created a MPP DW in 2008
 
 I am very proud of this project. Using SQL Server 2008 RS, [Microsoft Fast Track Reference Architecture](https://www.jamesserra.com/archive/2011/09/microsoft-sql-server-reference-architecture-and-appliances/), and very simple HW, I created a MPP DW for Lemon Bank, where I was working since 2002. I had to find a way to scale out, since the data volume was bigger than the total space of the biggest server available. A real Big Data problem, solved with lots of study and criativity. 
 
@@ -208,7 +208,13 @@ Award 1  | Award 2
 
 ## To Be Added - Innovation award in a HP - 2013
 
-## Innovation award! Lemon Bank - 2007
+## Innovation - Agile methods - Lemon Bank 2007
+
+In 2007 I was really angry with the lack of organization within the IT department. As a DBA, I was affected because I could not organize my work, and I was managing the data area. In that year, a friend returned from France where he did a PhD and learned about SCRUM. Back to Brazil, he acquired remarkable knowledge and experience on agile methods, including Kanban. He ended up opening a training company and called me for a presentation. I immediately identified the value of all that and also began to study the subject. 
+
+The DBA team started to use Kanban in 2007, what helped not only our own work, but also to measure the impact of the others teams lack of methodology on us. I'm also a person with lots of connections and I helped my friend to sell one of his first in-company agile trainings. The client was a friend's software company that never heard about Agile before. Today, 2019, my Agile expert friend still have his consulting company, with dozens of employess and hundreds of clients. And my friend's software company is still using agile methods for all of its operations.
+
+## Innovation awarded - Lemon Bank - 2006
 
 In 2008 I was working for this Fintech and the all company was challenged to create a product to increase revenew. It was not expected  that someone from IT would give a suggestion to the business area. But I'm very creativity and I won it! I suggested a remuneration model for the employees of the affiliated networks. The screenshot below is a screenshot of the bank's intranet, with my photo illustrating the winning idea. The project was implementing and worked as expected
 

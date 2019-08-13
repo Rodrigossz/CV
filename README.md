@@ -212,6 +212,8 @@ Award 1  | Award 2
 
 In 2007 I was really angry with the lack of organization within the IT department. As a DBA, I was affected because I could not organize my work, and I was managing the data area. In that year, a friend returned from France where he did a PhD and learned about SCRUM. Back to Brazil, he acquired remarkable knowledge and experience on agile methods, including Kanban. He ended up opening a training company and called me for a presentation. I immediately identified the value of all that and also began to study the subject. 
 
+It is not common to see the DBA introducing a project management methodology in a company. But that's exactly what happened!
+
 The DBA team started to use Kanban in 2007, what helped not only our own work, but also to measure the impact of the others teams lack of methodology on us. I'm also a person with lots of connections and I helped my friend to sell one of his first in-company agile trainings. The client was a friend's software company that never heard about Agile before. Today, 2019, my Agile expert friend still have his consulting company, with dozens of employess and hundreds of clients. And my friend's software company is still using agile methods for all of its operations.
 
 ## Innovation awarded - Lemon Bank - 2006

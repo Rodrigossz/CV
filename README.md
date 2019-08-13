@@ -162,7 +162,7 @@ The final data architecture is in the image below.
 
 ![IoT](./images/cool-arch.PNG)
 
-## Big Data projects from previous jobs
+## Previous jobs: Big Banks, Fintechs, Startups, HP...
 
 Some interesting old projects and achievments.
 
@@ -207,6 +207,17 @@ Award 1  | Award 2
 ## To Be Added - Big Data Practice Leader in HP - 2012
 
 ## To Be Added - Innovation award in a HP - 2013
+
+## Out-of-box thinking to solve database performance issues - 2011
+
+I was contracted by EDS to help a bank with performance problems in their transactional database. All experts before me suggested HW upgrades, what did not fixed the problem. How could I succeed when HP, IBM, and Accenture consultants failed? I had to do somthing different and for me it was clear that the problem was in the application. 
+
+What I did different? I asked the client to see the code! After some resistence, I was allowed to audit the application and I found multiple problems. We fixed one by one and the deployment day was on 9/11/2011. For many reasons, an unforgettable day. 
+
+Last winter I created a LinkedIn articles series about my lessons learned as a DBA. It was called **DBA TALES FROM THE CRYPT** and this project was detailed [here](https://www.linkedin.com/pulse/chapter-1-9112001-rodrigo-souza/).
+
+![DBA Tales from the Crypt](./images/dba-tales.jpg)
+
 
 ## Innovation - Agile methods - Lemon Bank 2007
 

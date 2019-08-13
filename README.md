@@ -18,7 +18,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 + Youtube Channel - https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A
 + GitHub Repos - https://github.com/Rodrigossz
 
-## Been an AI Developer at Microsoft
+## Been an Applied Data Scientist at Microsoft
 
 It was November 2017 when I moved from a DSA (Data Solutions Architect) position in Microsoft Brazil to be a Data Scientist here in Microsoft US, the  "CORP" as we call it. The first initial challenges were: 1) To create End-To-End AI Solutions, using multiple Azure Data & AI products. 2) To transform this solutions into trainings. 3) To deliver this trainings for Microsoft Employees and Partners all around the world. In my case, I taught AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, and New York.
 
@@ -28,6 +28,7 @@ Here are some of the trainings I helped to develop. For some of them, I just did
 + [LearnAI - Airlift](https://github.com/Azure/LearnAI-Airlift)
 + [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
++ [ACE Team - Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
 
 ### KMB - Details
 

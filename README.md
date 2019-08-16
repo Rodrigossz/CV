@@ -45,9 +45,9 @@ When delivering this training around the world, it was interesting to see people
 + First LearnAI training to be listed on Azure.com as an official product course
 + Unique Cognitive Search demo/training/solution to have a Bot instead of a website
 + First Cognitive Search initiative to use regular business data
-+ Alternative Agendas
-+ Unique existing training for Content Moderator API, at least until July/2019
-+ Modular, each lab can be delivered separately
++	First Microsoft training with Alternative Agendas
++ Unique existing training for Content Moderator API, at least until August/2019
++ Modular, most of the labs can be delivered separately
 + The Azure Search lab is a complete End-to-End training
 
 I had the honor to have this training added to [Microsoft AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps), as you can see in the image below.

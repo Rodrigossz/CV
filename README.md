@@ -34,8 +34,9 @@ Here are some of the trainings I helped to develop. For some of them, I just did
 
 KMB, the first item in the list above, deserves more detailed comments: It was created by me, in partnership with the Product Team and some colleagues of the LearnAI Team of course. The image below is the solution architecture that you will build if you follow the course labs. 
 
-![KMB](./images/cool-arch-kmb.PNG)
-
+KMB Architecture  | KMB - AI School
+:--------------:|:--------------: 
+![KMB](./images/cool-arch-kmb.PNG) | ![Microsoft AI School](./images/ai-shool.PNG)
 
 When delivering this training around the world, it was interesting to see people creating their first search service, their for BOT, and so on. Disruptive aspects of this course:
 
@@ -49,10 +50,7 @@ When delivering this training around the world, it was interesting to see people
 + Unique existing training for Content Moderator API, at least until August/2019
 + Modular, most of the labs can be delivered separately
 + The Azure Search lab is a complete End-to-End training
-
-I had the honor to have this training added to [Microsoft AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps), as you can see in the image below.
-
-![Microsoft AI School](./images/ai-shool.PNG)
++ Added to [Microsoft AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps) as an official Microsoft training
 
 
 **Innovation is a constant in my career!!** I just created a lab Knowledge Mining with Audio, what was never done before in Microsoft. Azure Search is the Azure's product for Knowledge Mining and it doesn't work with audio datatypes like wav or mp3. [This](https://github.com/Rodrigossz/KM-w-Audio) lab teaches you how to do it using Speech to Text API. And it can be connected to [KMB](http://aka.ms/kmb) as well!

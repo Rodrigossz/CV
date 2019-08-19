@@ -76,22 +76,18 @@ All that conferences helped me to achieve important Microsoft certifications lik
 
 ### Performance as an Instructor
 
-The dashboard below has details of my deliveries as an AI Instructor: locations, technologies, scores, etc.
+The table below has details of my deliveries as an AI Instructor: locations, technologies, scores, etc.
 
-![Dashboard](./images/dashboard.jpg)
+Team Dashboard  | Bootcamp 2019 - Best Session
+:---:|:---: 
+![Dashboard](./images/dashboard.jpg) | ![Best](./images/best.JPG)
+
 
 ### Microsoft Content Moderator Webinar (live) - April 2019
 
 This webinar was part of the Microsoft AI Inner Circle Partner Program, when I could talk about this important Cognitive Service for hundreds of people. You can see part of the recordings [here](https://www.youtube.com/watch?v=lrCkzINAFQQ&t=34s).
 
 ![Content Moderator Webinar](./images/content-moderator-webinar-march-2019.PNG)
-
-### Intelligent Cloud Bootcamp - Best Speaker - April 2019
-
-My Knowledge Mining session had the best satisfaction score of the conference.
-
-![Best](./images/best.JPG)
-
 
 ### Microsoft LearnAI Airlift - World Tour - February 2019
 

@@ -172,6 +172,7 @@ The final data architecture is in the image below.
 ## Certificates
 
 Certifications | Certifications
+:---:|:---: 
 ![Msft1](./images/msft-certificate-1.JPG) | ![Msft2](./images/msft-certificate-2.JPG) 
 ![Msft3](./images/msft-certificate-3.JPG) | ![Msft4](./images/msft-certificate-4.JPG)
 ![Msft5](./images/msft-certificate-5.JPG) | ![Msft6](./images/msft-certificate-6.JPG) 

@@ -176,7 +176,7 @@ Certifications | Certifications
 ![Msft1](./images/msft-certificate-1.JPG) | ![Msft2](./images/msft-certificate-2.JPG) 
 ![Msft3](./images/msft-certificate-3.JPG) | ![Msft4](./images/msft-certificate-4.JPG)
 ![Msft5](./images/msft-certificate-5.JPG) | ![Msft6](./images/msft-certificate-6.JPG) 
-![Msft7](./images/msft-certificate-7.JPG) |
+![Msft7](./images/msft-certificate-7.JPG) | ![HP Vertica](./images.hp-cert.JPG)
 
 
 ## Previous jobs: Big Banks, Fintechs, Startups, HP...

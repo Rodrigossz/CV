@@ -59,6 +59,7 @@ When delivering this training around the world, it was interesting to see people
 
 Blog posts is something new, started on June 2019. We are the ACE Team now, AI Customer Engineering, and we have our own Microsoft Tech Community Blog. It is an honor to write for an official Microsoft Blog. For now my posts are:
 
++ [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
 + [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957)
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 

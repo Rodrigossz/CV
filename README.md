@@ -89,7 +89,7 @@ July 2019 was a busy month, with Microsoft Ready in Las Vegas and the Global Bla
 
 Las Vegas 2019  | Redmond 2019
 :---:|:---: 
-![Ready](./images/IMG_20190714_165253.jpg) | ![GBBs](./images/IMG_20190724_152854.jpg)
+![Ready](./images/ready2019.JPG) | ![GBBs](./images/IMG_20190724_152854.jpg)
 
 
 

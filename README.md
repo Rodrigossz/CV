@@ -78,7 +78,7 @@ All that conferences helped me to achieve important Microsoft certifications lik
 
 The table below has details of my deliveries as an AI Instructor: locations, technologies, scores, etc.
 
-Team Dashboard  | Bootcamp 2019 - Best Session
+Team Dashboard  | Intelligent Cloud Bootcamp 2019 - Best Session
 :---:|:---: 
 ![Dashboard](./images/dashboard.jpg) | ![Best](./images/best.JPG)
 

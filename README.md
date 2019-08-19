@@ -83,6 +83,17 @@ Team Dashboard  | Intelligent Cloud Bootcamp 2019 - Best Session
 ![Dashboard](./images/dashboard.jpg) | ![Best](./images/best.JPG)
 
 
+### AI Deliveries - July 2019
+
+July 2019 was a busy month, with Microsoft Ready in Las Vegas and the Global Black Belts Airlift, a training for our experts. Knowledge Mining was the topic for both deliveries.
+
+Las Vegas 2019  | Redmond 2019
+:---:|:---: 
+![Ready](./images/IMG_20190714_165253.jpg) | ![GBBs](./images/IMG_20190724_152854.jpg)
+
+
+
+
 ### Microsoft Content Moderator Webinar (live) - April 2019
 
 This webinar was part of the Microsoft AI Inner Circle Partner Program, when I could talk about this important Cognitive Service for hundreds of people. You can see part of the recordings [here](https://www.youtube.com/watch?v=lrCkzINAFQQ&t=34s).

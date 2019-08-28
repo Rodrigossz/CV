@@ -94,12 +94,15 @@ What | Where, When | Details
 ![Best](./images/best.JPG) | Redmond, April 2019 | I was appointed as the best session of the Intelligent Cloud Bootcamp
 ![AI MeetUP](./images/ai-meetup-redmond-march-2019.jpg) | Redmond, March 2019 | Speaking in the Seattle Area AI MeetUP
 ![Amsterdam Arena](./images/arena.JPG) | Planet Earth, February 2019 |Delivered the [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift), in Singapore, Sydney and Amsterdam. The average NSAT (net satisfaction) 198/200. The technologies taught were Vision API, Custom Vision, CosmosDb, Bots, and Azure Search. Photo taken in Amsterdam
+![Ready Feb 2019](./images/ms-ready-feb-2019.jpeg) | Seattle, Febrauary 2019 | My Microsoft Ready session on Cognitive Search
 ![KM Workshop](./images/kmw.PNG) | Redmond, January 2019 | This "TV Show" was the first Microsoft training that mixed pre-recorded (content) and live videos (questions). It was two days of transmission, 3 hours each day. But the project demanded a lot of preparation. The basic technologies presented were Cognitive Search and Translator API. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t=31s)
 ![MLADS](./images/mlads-2018.jpeg) | Redmond, November 2018 | MLADS is Microsoft's Machine Learning and Data Science Conference. I had a session on Microsoft Azure Cognitive Services
+![First GBBs Airlift](./images/gbbs-ai-airlift-july-2018.jpeg) | Redmond, July 2018 | One day session about Intelligent Bots for Microsoft GBBs
 ![Digital Ready](./images/dr.JPG) | Redmond, May 2018 | This video was recorded for the Microsoft Ready 2018 conference, trough its Digital Ready channel
-![Digital Ready](./images/jfk-webinar.PNG) | Redmond, May 2018 | Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar [here](https://www.youtube.com/watch?v=ll10PTrV0oM&t)
+![JFK Webinar](./images/jfk-webinar.PNG) | Redmond, May 2018 | Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar [here](https://www.youtube.com/watch?v=ll10PTrV0oM&t)
+![Channel 9](./images/channel9-march-2018.JPG) | Redmond, March 2018 | My video for Channel 9 with [Anna Thomas](https://twitter.com/AnalyticAnna). You can see part 1 [here](https://channel9.msdn.com/Shows/AI-Show/LearnAI-Bootcamp-for-Emerging-AI-Developers-Computer-Vision-API-Custom-Vision-Service-LUIS-Part-12) and part 2 [here](https://channel9.msdn.com/Shows/AI-Show/LearnAI-Bootcamp-for-Emerging-AI-Developers-Integrating-Services-with-BotBuilder-SDK-v4-Part-22?term=bootcamp&lang-en=true)
 ![Lisbon 1](./images/lisbon1.jpg) | Europe, February 2018 | Another trip to teach AI around the world. The content was the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp), whose content was Cognitive Services, Azure Search and Bots. The first stop was taken in Lisbon, Microsoft Office
-![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | AI and DevOps session delivered at the Intelligent Cloud Bootcamp,with Buck Woody
+![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | AI and DevOps session delivered at the Intelligent Cloud Bootcamp, with [Buck Woody](https://twitter.com/BuckWoodyMSFT)
 
 ## Been an Cloud Solutions Architect at Microsoft
 

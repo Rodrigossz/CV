@@ -206,8 +206,11 @@ In 2008 I was working for this Fintech and the all company was challenged to cre
 
 ![Lemon Bank Intranet](./images/intranet-lemon.jpg)
 
-## Professional Photos by Microsoft
+## Other Photos
 
-MGX - Orlando, July 2016         |  Discovery Day - Redmond, July 2019
-:-------------------------:|:-------------------------:
-![Orlando](./images/rodrigo-mgx-2016.jpg)  |  ![Redmond](./images/rodrigo-discoveryday-2019.jpg)
+Photo | What, Where, and When
+:---:|:---:
+![Redmond](./images/rodrigo-discoveryday-2019.jpg) | Professional LinkedIn photo, Microsoft Discovery Day, Redmond, July 2019
+![My Office](./images/my-table.jpeg) | My office is always very organized, Microsoft Bellevue, June 2019
+![Orlando](./images/rodrigo-mgx-2016.jpg)  | Professional LinkedIn photo, Microsoft MGX , Orlando, July 2016
+![MeetUp](./images/meetup-analytics-em-tudo-Rio-april-2017.JPG) | Delivering an Azure Data Services on a MeetUP, Rio de Janeiro, April 2017

@@ -79,25 +79,19 @@ Blog posts is something new, started on March 2019, when the LearnAI team was in
 
 Since 2017, I could be Speaker/Presenter dozens of times, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, Global Black Belts (GBBs) Airlift, Inspire, and Microsoft Ready. There was also the MeetUps and LearnAI Bootcamps, when Microsoft AI Organization decided to invest on internal + partners readiness.
 
-#### Certifications and Performance
-
 All these conferences helped me to achieve important Microsoft certifications like Hackathon Leader, Gold Speaker and Certified Trainer. The image below has some of the Microsoft Certifications I have. There is more to come...
 
 ![Badges](./images/badges.JPG)
 
-The table below has details of my deliveries as an AI Instructor: locations, technologies, scores, etc. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
+The table below has details of my deliveries as an AI Instructor: locations, links, results, technologies, scores, etc. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
 
-Team Dashboard - 188 NSAT | Intelligent Cloud Bootcamp 2019 - Best Session
-:---:|:---:
-![Dashboard](./images/dashboard.jpg) | ![Best](./images/best.JPG)
-
-#### AI Deliveries
-
-Delivery | Where, When | Details
+What | Where, When | Details
 :---:|:---:|:---
+![Dashboard](./images/dashboard.jpg) | Redmond, August 2019 | Team Dashboard - 188 NSAT, almost 1000 in-person attendants
 ![Ready](./images/ready2019.JPG) | Las Vegas, July 2019 | Microsoft Ready Speaker, delivered a workshop on Knwoledge Mining
 ![GBBs](./images/gbbs.JPG) | Redmond, July 2019 | AI Airlift Speaker, teaching AI to the Microsoft Black Belts
 ![Content Moderator Webinar](./images/content-moderator-webinar-march-2019.PNG) | Redmond, April 2019 | This webinar was part of the Microsoft AI Inner Circle Partner Program, when I talked about the Content Moderator API. You can see part of the recordings [here](https://www.youtube.com/watch?v=lrCkzINAFQQ&t=34s)
+![Best](./images/best.JPG) | Redmond, April 2019 | I was appointed as the best session of the Intelligent Cloud Bootcamp
 ![AI MeetUP](./images/ai-meetup-redmond-march-2019.jpg) | Redmond, March 2019 | Speaking in the Seattle Area AI MeetUP
 ![Amsterdam Arena](./images/arena.JPG) | Planet Earth, February 2019 |Delivered the [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift), in Singapore, Sydney and Amsterdam. The average NSAT (net satisfaction) 198/200. The technologies taught were Vision API, Custom Vision, CosmosDb, Bots, and Azure Search. Photo taken in Amsterdam
 ![KM Workshop](./images/kmw.PNG) | Redmond, January 2019 | This "TV Show" was the first Microsoft training that mixed pre-recorded (content) and live videos (questions). It was two days of transmission, 3 hours each day. But the project demanded a lot of preparation. The basic technologies presented were Cognitive Search and Translator API. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t=31s)
@@ -109,7 +103,7 @@ Delivery | Where, When | Details
 
 ## Been an Cloud Solutions Architect at Microsoft
 
-Some cool projects from my Azure CSA role.
+Some cool projects from my Azure CSA role, since 2015.
 
 ### IoT + Modern Data Warehouse solution for Wind Farms - August 2017
 

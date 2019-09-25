@@ -12,70 +12,56 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ## Key Personal Links
 
-+ LinkedIn Profile - <https://www.linkedin.com/in/rodrigossz/>
-+ LinkedIn Articles - <https://www.linkedin.com/in/rodrigossz/detail/recent-activity/posts/>
-+ Blog: Data is the New Oil - <https://datanewoil.tumblr.com/>
-+ AI demos, labs, repos - <http://aka.ms/ai-links>
-+ Youtube Channel - <https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A>
-+ GitHub - <https://github.com/Rodrigossz>
++ [LinkedIn Profile](https://www.linkedin.com/in/rodrigossz/)
++ [LinkedIn Articles](https://www.linkedin.com/in/rodrigossz/detail/recent-activity/posts/)
++ [Blog: Data is the New Oil](https://datanewoil.tumblr.com/)
++ [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
++ [GitHub](https://github.com/Rodrigossz)
 
-## Been an Applied Data Scientist at Microsoft
+## Been an Applied Data Scientist at Microsoft US - Redmond, WA - November 2017 - Today
 
-It was November 2017 when I moved from a DSA (Data Solutions Architect) position in Microsoft Brazil to be a Data Scientist here in Microsoft US, with the LearnAI team. It was a group dedicated to increase AI readiness, I became an AI Instructor, delivering in person and on line trainings. I also delivered many "train the trainers" courses for the most skilled professionals in Micrsooft. The LearnAI team working process was:
+Initially working with the LearnAI team, I was an AI Developer and Instructor. I created and delived the trainings, that were end-to-end AI Solutions using multiple products like Cognitive Services, Azure Machine Learning, CosmosDB, Bots, among others. All content included theory materials and thands-on labs. I delivered in-person and online trainings, including  "train the trainers" courses and all of the biggests Microsoft conferences like Ready, Inspire, Ignite, and MLADS. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
 
-1. To create End-To-End AI Solutions, using multiple Azure Data & AI products
-1. To transform this solutions into trainings
-1. To deliver this trainings for Microsoft Employees and Partners all around the world.
-
-In March 2019 the LearnAI team became ACE, AI Customer Engagements. We started working with ISVs, GSIs, and some special customers. The job is to help critical AI projects, from trainings to MVPs development. The [ACE-Team](http://aka.ms/ACE-Blog) working process is:
-
-1. Engagement triage
-1. Engagement itself, from hours to months
-1. To share the lessons learned with the community: sessions, videos, blog posts
+In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
 
 ### My Code on GitHub Azure ORG
 
 Here are some of solutions and trainings I worked with. For some of them, I just did maintenance, keeping relevant the work of brilliant colleagues. For some of them, I was the main developer. My code in Microsft Azure official GitHub repo:
 
-+ [LearnAI - Knowledge Mining Bootcamp -KMB - Extra Details Below](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
++ [LearnAI - Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) - aka.ms/kmb - Check the extra details below
 + [LearnAI - Airlift](https://github.com/Azure/LearnAI-Airlift)
 + [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
 + [ACE Team - Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
 
+### My Blog Posts on Microsoft Tech Community
+
+Blog posts is something new, started on March 2019, when the LearnAI team was incorporated into the ACE Team. For now my posts are:
+
++ [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
+](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!! Never done before!!!**
++ [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
++ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!! Never done before!!!**
++ [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
+
 #### KMB - Extra Details
 
-KMB, the first item in the list above, deserves more detailed comments: It was created by me, in partnership with the Product Team and some colleagues of the LearnAI Team of course. The image below is the solution architecture that you will build if you follow the course labs.
+I created this training in partnership with the Product Team and some colleagues of the LearnAI Team of course. **Innovations**:
+
++ Released at the same time of the product private preview.
++ First LearnAI training to have solution architecture, pricing, and collaboration
++ First LearnAI training that can also be used as a sales tool, for demos and POCs in minutes, with your client data
++ First LearnAI training to be listed on Azure.com as an official product course
++ First Cognitive Search initiative to use regular business data
++ First Cognitive Search Bot
++ First Content Moderator training
++ First LearnAI training with Alternative Agendas
++ Modular, most of the labs can be delivered separately
++ Added to [Microsoft AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps) as an official Microsoft training
 
 KMB Architecture  | KMB - AI School
 :--------------:|:--------------:
 ![KMB](./images/cool-arch-kmb.PNG) | ![Microsoft AI School](./images/ai-shool.PNG)
-
-When delivering this training around the world, it was interesting to see people creating their first search service, their for BOT, and so on. Disruptive aspects of this course:
-
-+ First LearnAI training to be released at the same time of the product. Was working in parallel, under private preview access
-+ First LearnAI training to have solution architecture, pricing, and collaboration
-+ First LearnAI training that can also be used as a sales tool, demos and POCs in minutes, with your client data
-+ First LearnAI training to be listed on Azure.com as an official product course
-+ First Cognitive Search demo/training/solution to have a Bot instead of a website
-+ First Cognitive Search initiative to use regular business data
-+ First LearnAI training with Alternative Agendas
-+ Unique existing training for Content Moderator API, at least until August/2019
-+ Modular, most of the labs can be delivered separately
-+ The Azure Search lab is a complete End-to-End training
-+ Added to [Microsoft AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps) as an official Microsoft training
-
-**Innovation is a constant in my career!!** I just created a lab Knowledge Mining with Audio, what was never done before in Microsoft. Azure Search is the Azure's product for Knowledge Mining and it doesn't work with audio datatypes like wav or mp3. [This](https://github.com/Rodrigossz/KM-w-Audio) lab teaches you how to do it using Speech to Text API. And it can be connected to [KMB](http://aka.ms/kmb) as well!
-
-### My Blog Posts on Microsoft Tech Community
-
-Blog posts is something new, started on March 2019, when the LearnAI team was incorporated into the ACE Team - AI Customer Engagements. The idea is to share AI best practices on an Official Microsoft Blog. For now my posts are:
-
-+ [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
-](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106)
-+ [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
-+ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957)
-+ [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 
 ### My Work as Speaker / Presenter / Instructor
 
@@ -85,7 +71,7 @@ All these conferences helped me to achieve important Microsoft certifications li
 
 ![Badges](./images/badges.JPG)
 
-The table below has details of my deliveries as an AI Instructor: locations, links, results, technologies, scores, etc. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
+The table below has details of my deliveries as an AI Instructor: locations, links, results, technologies, scores, etc.
 
 What | Where, When | Details
 :---:|:---:|:---

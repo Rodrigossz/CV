@@ -71,6 +71,8 @@ When delivering this training around the world, it was interesting to see people
 
 Blog posts is something new, started on March 2019, when the LearnAI team was incorporated into the ACE Team - AI Customer Engagements. The idea is to share AI best practices on an Official Microsoft Blog. For now my posts are:
 
++ [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
+](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106)
 + [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
 + [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957)
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)

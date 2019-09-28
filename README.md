@@ -75,6 +75,7 @@ The table below has details of my deliveries as an AI Instructor: locations, lin
 
 What | Where, When | Details
 :---:|:---:|:---
+![Dallas](./images/dallas-sept-2019-ai-airlift.jpg) | Dallas, September 2019 | Teaching AI for partners, GBBS, and CSAs
 ![Dashboard](./images/dashboard.jpg) | Redmond, August 2019 | Team Dashboard - 188 NSAT, almost 1000 in-person attendants
 ![Ready](./images/ready2019.JPG) | Las Vegas, July 2019 | Microsoft Ready Speaker, delivered a workshop on Knwoledge Mining
 ![GBBs](./images/gbbs.JPG) | Redmond, July 2019 | AI Airlift Speaker, teaching AI to the Microsoft Black Belts

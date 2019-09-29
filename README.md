@@ -24,11 +24,9 @@ Initially working with the LearnAI team, I was an AI Developer and Instructor. I
 
 In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
 
-### My Code on GitHub Azure ORG
+### My Code on Azure GitHub Repos
 
-Here are some of solutions and trainings I worked with. For some of them, I just did maintenance, keeping relevant the work of brilliant colleagues. For some of them, I was the main developer. My code in Microsft Azure official GitHub repo:
-
-+ [LearnAI - Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) - aka.ms/kmb - Check the extra details below
++ [LearnAI - Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
 + [LearnAI - Airlift](https://github.com/Azure/LearnAI-Airlift)
 + [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
@@ -36,63 +34,41 @@ Here are some of solutions and trainings I worked with. For some of them, I just
 
 ### My Blog Posts on Microsoft Tech Community
 
-Blog posts is something new, started on March 2019, when the LearnAI team was incorporated into the ACE Team. For now my posts are:
-
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
 ](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!! Never done before!!!**
 + [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
 + [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!! Never done before!!!**
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 
-#### KMB - Extra Details
-
-I created this training in partnership with the Product Team and some colleagues of the LearnAI Team of course. **Innovations**:
-
-+ Released at the same time of the product private preview.
-+ First LearnAI training to have solution architecture, pricing, and collaboration
-+ First LearnAI training that can also be used as a sales tool, for demos and POCs in minutes, with your client data
-+ First LearnAI training to be listed on Azure.com as an official product course
-+ First Cognitive Search initiative to use regular business data
-+ First Cognitive Search Bot
-+ First Content Moderator training
-+ First LearnAI training with Alternative Agendas
-+ Modular, most of the labs can be delivered separately
-+ Added to [Microsoft AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps) as an official Microsoft training
-
-KMB Architecture  | KMB - AI School
-:--------------:|:--------------:
-![KMB](./images/cool-arch-kmb.PNG) | ![Microsoft AI School](./images/ai-shool.PNG)
-
 ### My Work as Speaker / Presenter / Instructor
 
 Since 2017, I could be Speaker/Presenter dozens of times, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, Global Black Belts (GBBs) Airlift, Inspire, and Microsoft Ready. There was also the MeetUps and LearnAI Bootcamps, when Microsoft AI Organization decided to invest on internal + partners readiness.
 
-All these conferences helped me to achieve important Microsoft certifications like Hackathon Leader, Gold Speaker and Certified Trainer. The image below has some of the Microsoft Certifications I have. There is more to come...
-
-![Badges](./images/badges.JPG)
-
-The table below has details of my deliveries as an AI Instructor: locations, links, results, technologies, scores, etc.
-
 What | Where, When | Details
 :---:|:---:|:---
-![Dallas](./images/dallas-sept-2019-ai-airlift.jpg) | Dallas, September 2019 | Teaching AI for partners, GBBS, and CSAs
+![Badges](./images/badges.JPG) | Redmond, September 2019 | Certified Hackathon Leader, Gold Speaker, AI Engineer, and Trainer, among 10 other certifications
+![Dallas](./images/dallas-sept-2019-ai-airlift.jpg) | Dallas, September 2019 | AI training for partners, GBBS, and CSAs
 ![Dashboard](./images/dashboard.jpg) | Redmond, August 2019 | Team Dashboard - 188 NSAT, almost 1000 in-person attendants
-![Ready](./images/ready2019.JPG) | Las Vegas, July 2019 | Microsoft Ready Speaker, delivered a workshop on Knwoledge Mining
-![GBBs](./images/gbbs.JPG) | Redmond, July 2019 | AI Airlift Speaker, teaching AI to the Microsoft Black Belts
-![Content Moderator Webinar](./images/content-moderator-webinar-march-2019.PNG) | Redmond, April 2019 | This webinar was part of the Microsoft AI Inner Circle Partner Program, when I talked about the Content Moderator API. You can see part of the recordings [here](https://www.youtube.com/watch?v=lrCkzINAFQQ&t=34s)
-![Best](./images/best.JPG) | Redmond, April 2019 | I was appointed as the best session of the Intelligent Cloud Bootcamp
-![AI MeetUP](./images/ai-meetup-redmond-march-2019.jpg) | Redmond, March 2019 | Speaking in the Seattle Area AI MeetUP
-![Amsterdam Arena](./images/arena.JPG) | Planet Earth, February 2019 |Delivered the [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift), in Singapore, Sydney and Amsterdam. The average NSAT (net satisfaction) 198/200. The technologies taught were Vision API, Custom Vision, CosmosDb, Bots, and Azure Search. Photo taken in Amsterdam
-![Ready Feb 2019](./images/ms-ready-feb-2019.jpeg) | Seattle, Febrauary 2019 | My Microsoft Ready session on Cognitive Search
-![KM Workshop](./images/kmw.PNG) | Redmond, January 2019 | This "TV Show" was the first Microsoft training that mixed pre-recorded (content) and live videos (questions). It was two days of transmission, 3 hours each day. But the project demanded a lot of preparation. The basic technologies presented were Cognitive Search and Translator API. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t=31s)
-![MLADS](./images/mlads-2018.jpeg) | Redmond, November 2018 | MLADS is Microsoft's Machine Learning and Data Science Conference. I had a session on Microsoft Azure Cognitive Services
-![First GBBs Airlift](./images/gbbs-ai-airlift-july-2018.jpeg) | Redmond, July 2018 | One day session about Intelligent Bots for Microsoft GBBs
-![Digital Ready](./images/dr.JPG) | Redmond, May 2018 | This video was recorded for the Microsoft Ready 2018 conference, trough its Digital Ready channel
-![JFK Webinar](./images/jfk-webinar.PNG) | Redmond, May 2018 | Webinar broadcasted live to 1100+ atendees, with NSAT 185/200. I presented the brand new technology and the [JFK use case](https://jfk-demo.azurewebsites.net/#/). You can see part of the webinar [here](https://www.youtube.com/watch?v=ll10PTrV0oM&t)
-![Channel 9](./images/channel9-march-2018.JPG) | Redmond, March 2018 | My video for Channel 9 with [Anna Thomas](https://twitter.com/AnalyticAnna). You can see part 1 [here](https://channel9.msdn.com/Shows/AI-Show/LearnAI-Bootcamp-for-Emerging-AI-Developers-Computer-Vision-API-Custom-Vision-Service-LUIS-Part-12) and part 2 [here](https://channel9.msdn.com/Shows/AI-Show/LearnAI-Bootcamp-for-Emerging-AI-Developers-Integrating-Services-with-BotBuilder-SDK-v4-Part-22?term=bootcamp&lang-en=true)
-![Lisbon](./images/lisbon1.jpg) | Lisbon, February 2018 | Another trip to teach AI around the world. The content was the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp), whose content was Cognitive Services, Azure Search and Bots. 
-![London](./images/london-feb-2018-ai-bootcamp.PNG) | London, February 2018 | Another trip to teach AI around the world. The content was the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp), whose content was Cognitive Services, Azure Search and Bots. 
-![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | AI and DevOps session delivered at the Intelligent Cloud Bootcamp, with [Buck Woody](https://twitter.com/BuckWoodyMSFT)
+![Ready](./images/ready2019.JPG) | Las Vegas, July 2019 | Microsoft Ready Speaker, delivered Knwoledge Mining workshop in the main event
+![GBBs](./images/gbbs.JPG) | Redmond, July 2019 | AI training for Microsoft Global Black Belts
+![Content Moderator Webinar](./images/content-moderator-webinar-march-2019.PNG) | Redmond, April 2019 | Content Moderator Webinar for Microsoft AI Inner Circle Program. You can see part of the recording [here](https://www.youtube.com/watch?v=lrCkzINAFQQ&t)
+![Microsoft AI School](./images/ai-shool.PNG) | Redmond, June 2019 | [KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) added to Microsoft [AI School]((https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps)). This training was also listed as an official Cognitive Search training at Azure.com
+![Best](./images/best.JPG) | Redmond, April 2019 | Intelligent Cloud Bootcamp best session
+![AI MeetUP](./images/ai-meetup-redmond-march-2019.jpg) | Redmond, March 2019 | Seattle Area AI MeetUP
+![Amsterdam Arena](./images/arena.JPG) | Amsterdam, March 2019 | [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift) for 80+ attendents with 198/200 NSAT. Taught Vision API, Cognitive Services, Custom Vision, CosmosDb, Bots, and Azure Search
+![Sydney](./images/sydney-20190201_102900.jpg) | Sydney, February 2019 | [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift) for 18 attendents with 200/200 NSAT
+![Singapore](./images/singapore-20190125_155211.jpg) | Singapore, February 2019 | [LearnAI Airlift](https://github.com/Azure/LearnAI-Airlift) for 50+ attendents with 200/200 NSAT
+![Ready Feb 2019](./images/ms-ready-feb-2019.jpeg) | Seattle, Febrauary 2019 | Cognitive Search session in Microsoft Ready for 100+ attendants
+![KM Workshop](./images/kmw.PNG) | Redmond, January 2019 | **New format** that mixed pre-recorded (content) and live broadcast. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t)
+![MLADS](./images/mlads-2018.jpeg) | Redmond, November 2018 | Cognitive Search session for MLADS - Microsoft's Machine Learning and Data Science Conference
+![First GBBs Airlift](./images/gbbs-ai-airlift-july-2018.jpeg) | Redmond, July 2018 | Intelligent Bots session (8 hours) for Microsoft GBBs
+![KMB](./images/cool-arch-kmb.PNG) | Redmond, June 2018 | [KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) launched at private preview time, with a long list of **inovations** like collaboration, princing, bot interface, Content Moderator custom skill, and alternative agendas
+![Digital Ready](./images/dr.JPG) | Redmond, May 2018 |Knwoledge Mining session for Microsoft Digital Ready
+![JFK Webinar](./images/jfk-webinar.PNG) | Redmond, May 2018 | Webinar broadcasted live to 1100+ atendees, with 185/200 NSAT. You can see part of the webinar [here](https://www.youtube.com/watch?v=ll10PTrV0oM&t)
+![Channel 9](./images/channel9-march-2018.JPG) | Redmond, March 2018 | Channel 9 videos with [Anna Thomas](https://twitter.com/AnalyticAnna). You can see part 1 [here](https://channel9.msdn.com/Shows/AI-Show/LearnAI-Bootcamp-for-Emerging-AI-Developers-Computer-Vision-API-Custom-Vision-Service-LUIS-Part-12) and part 2 [here](https://channel9.msdn.com/Shows/AI-Show/LearnAI-Bootcamp-for-Emerging-AI-Developers-Integrating-Services-with-BotBuilder-SDK-v4-Part-22?term=bootcamp&lang-en=true)
+![Lisbon](./images/lisbon1.jpg) | Lisbon, February 2018 | [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp): Cognitive Services, CosmosDb, Azure Search, and Bots
+![London](./images/london-feb-2018-ai-bootcamp.PNG) | London, February 2018 | Delivered the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp): Cognitive Services, CosmosDb, Azure Search, and Bots
+![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | Intelligent Cloud Bootcamp session, with [Buck Woody](https://twitter.com/BuckWoodyMSFT), about AI and DevOps
 
 ## Cloud Solutions Architect at Microsoft
 

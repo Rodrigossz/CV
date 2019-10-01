@@ -62,6 +62,7 @@ What | Where, When | Details
 ![KM Workshop](./images/kmw.PNG) | Redmond, January 2019 | **New format** that mixed pre-recorded (content) and live broadcast. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t)
 ![MLADS](./images/mlads-2018.jpeg) | Redmond, November 2018 | Cognitive Search session for MLADS - Microsoft's Machine Learning and Data Science Conference
 ![First GBBs Airlift](./images/gbbs-ai-airlift-july-2018.jpeg) | Redmond, July 2018 | Intelligent Bots session (8 hours) for Microsoft GBBs
+![KMB](./images/me-on-github.PNG) | Redmond, June 2018 | [KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) was my first of many commits into Azure GitHub repos.
 ![KMB](./images/cool-arch-kmb.PNG) | Redmond, June 2018 | [KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) launched at private preview time, with a long list of **inovations** like collaboration, princing, bot interface, Content Moderator custom skill, and alternative agendas
 ![Digital Ready](./images/dr.JPG) | Redmond, May 2018 |Knwoledge Mining session for Microsoft Digital Ready
 ![JFK Webinar](./images/jfk-webinar.PNG) | Redmond, May 2018 | Webinar broadcasted live to 1100+ atendees, with 185/200 NSAT. You can see part of the webinar [here](https://www.youtube.com/watch?v=ll10PTrV0oM&t)

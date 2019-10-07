@@ -73,7 +73,7 @@ What | Where, When | Details
 
 ## Cloud Solutions Architect at Microsoft
 
-Some cool projects from my Azure CSA role, since 2015.
+Some cool projects from my Azure CSA role, from Nov 2015 until Nov 2017. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
 
 ### IoT + Modern Data Warehouse solution for Wind Farms - August 2017
 

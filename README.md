@@ -46,6 +46,7 @@ Since 2017, I could be Speaker/Presenter dozens of times, in the most important 
 
 What | Where, When | Details
 :---:|:---:|:---
+![All Hands](./images/ai-all-hands-october-2019.PNG) | Bellevue, October 2019 | Presenting End-to-End AI Solutions to 700 people in the AI All Hands
 ![Badges](./images/badges.JPG) | Redmond, September 2019 | Certified Hackathon Leader, Gold Speaker, AI Engineer, and Trainer, among 10 other certifications
 ![Dallas](./images/dallas-sept-2019-ai-airlift.jpg) | Dallas, September 2019 | AI training for partners, GBBS, and CSAs
 ![Dashboard](./images/dashboard.jpg) | Redmond, August 2019 | Team Dashboard - 188 NSAT, almost 1000 in-person attendants

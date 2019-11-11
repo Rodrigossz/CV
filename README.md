@@ -46,7 +46,11 @@ Since 2017, I could be Speaker/Presenter dozens of times, in the most important 
 
 What | Where, When | Details
 :---:|:---:|:---
-![All Hands](./images/ai-all-hands-october-2019.PNG) | Bellevue, October 2019 | Presenting End-to-End AI Solutions to 700 people in the AI All Hands
+![Ignite 2019](./images/ignite-orlando-vision-booth-nov-2019.PNG) | Orlando, November 2019 | Microsoft Ignite 2019. Working in the Vision Services Booth
+![Ignite 2019](./images/20191104_144944758_iOS.jpg) | Orlando, November 2019 | Delivering an AI session in Microsoft Ignite for 120 people
+![Imapact](./images/impact-recog-ai-newsletter-oct-2019.PNG) | Bellevue, October 2019 | Impact recognition - Microsoft AI Newsletter
+![ICB](./images/rod-icb-oct-2019-2.JPG) | Seattle, October 2019 | AI session for 300 people in the Intelligent Cloud Bootcamp
+![AI All Hands](./images/ai-all-hands-october-2019.PNG) | Bellevue, October 2019 | Presenting End-to-End AI Solutions to 700 people in the AI All Hands
 ![Badges](./images/badges.JPG) | Redmond, September 2019 | Certified Hackathon Leader, Gold Speaker, AI Engineer, and Trainer, among 10 other certifications
 ![Dallas](./images/dallas-sept-2019-ai-airlift.jpg) | Dallas, September 2019 | AI training for partners, GBBS, and CSAs
 ![Dashboard](./images/dashboard.jpg) | Redmond, August 2019 | Team Dashboard - 188 NSAT, almost 1000 in-person attendants

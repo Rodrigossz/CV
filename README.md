@@ -34,7 +34,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Blog Posts on Microsoft Tech Community
 
-+ [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)
++ [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)**--> Innovation!!!**
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
 ](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!!**
 + [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)

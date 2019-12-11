@@ -43,7 +43,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Work as Speaker / Presenter / Instructor
 
-I have been delivering sessions and trainings since Nov/2017, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, Global Black Belts (GBBs) Airlift, Inspire, and Microsoft Ready. There was also the MeetUps and LearnAI Bootcamps, when Microsoft AI Organization decided to invest on internal + partners readiness.
+I have been delivering sessions and trainings since Nov/2017, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, AI Airlifts, Inspire, Ignite, and Microsoft Ready. 
 
 What | Where, When | Details
 :---:|:---:|:---

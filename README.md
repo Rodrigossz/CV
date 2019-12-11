@@ -34,10 +34,11 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Blog Posts on Microsoft Tech Community
 
++ [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
-](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!! Never done before!!!**
+](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!!**
 + [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
-+ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!! Never done before!!!**
++ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!!**
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 
 ### My Work as Speaker / Presenter / Instructor

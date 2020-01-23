@@ -31,6 +31,8 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 + [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
 + [ACE Team - Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
++ [ACE Team - Python Custom Skills Toolkit](https://github.com/Rodrigossz/Pyhton-Custom-Skills-Toolkit)
+
 
 ### My Blog Posts on Microsoft Tech Community
 
@@ -40,6 +42,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 + [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
 + [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!!**
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
++ [Announcing the Python Custom Skills Toolkit](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcing-the-python-custom-skills-toolkit/ba-p/1106493)
 
 ### My Work as Speaker / Presenter / Instructor
 

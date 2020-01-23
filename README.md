@@ -18,7 +18,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 + [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
 + [GitHub](https://github.com/Rodrigossz)
 
-## Applied Data Scientist at Microsoft US - Redmond, WA - November 2017 - Today
+## Senior Applied Data Scientist - Microsoft US (Nov/2017 - Today)
 
 Initially working with the LearnAI team, I was an AI Developer and Instructor. I created and delived the trainings, that were end-to-end AI Solutions using multiple products like Cognitive Services, Azure Machine Learning, CosmosDB, Bots, among others. All content included theory materials and thands-on labs. I delivered in-person and online trainings, including  "train the trainers" courses and all of the biggests Microsoft conferences like Ready, Inspire, Ignite, and MLADS. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
 
@@ -26,12 +26,12 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Code on Azure GitHub Repos
 
-+ [LearnAI - Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
-+ [LearnAI - Airlift](https://github.com/Azure/LearnAI-Airlift)
-+ [LearnAI - Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
-+ [LearnAI - Cognitive Services Bootcamp - Computer Vision](https://github.com/Azure/LearnAI-bootcamp)
-+ [ACE Team - Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
-+ [ACE Team - Python Custom Skills Toolkit](https://github.com/Rodrigossz/Pyhton-Custom-Skills-Toolkit)
++ [Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
++ [Learn AI Airlift](https://github.com/Azure/LearnAI-Airlift)
++ [Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
++ [Cognitive Services Bootcamp - Computer Vision Bot](https://github.com/Azure/LearnAI-bootcamp)
++ [Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
++ [Python Custom Skills Toolkit](https://github.com/Rodrigossz/Pyhton-Custom-Skills-Toolkit)
 
 
 ### My Blog Posts on Microsoft Tech Community
@@ -81,7 +81,7 @@ What | Where, When | Details
 ![London](./images/london-feb-2018-ai-bootcamp.PNG) | London, February 2018 | Delivered the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp): Cognitive Services, CosmosDb, Azure Search, and Bots
 ![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | Intelligent Cloud Bootcamp session, with [Buck Woody](https://twitter.com/BuckWoodyMSFT), about AI and DevOps
 
-## Cloud Solutions Architect at Microsoft
+## Cloud Solutions Architect - Microsoft Brazil (Nov/2015 - Nov/2017)
 
 Some cool projects from my Azure CSA role, from Nov 2015 until Nov 2017. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
 
@@ -129,7 +129,7 @@ Data Architecture 1  | Data Architecture 2 | Data Architecture 3
 
 I am very proud of this project. Using SQL Server 2008 RS, [Microsoft Fast Track Reference Architecture](https://www.jamesserra.com/archive/2011/09/microsoft-sql-server-reference-architecture-and-appliances/), and very simple HW, I created a MPP DW for Lemon Bank, where I was working since 2002. I had to find a way to scale out, since the data volume was bigger than the total space of the biggest server available. A real Big Data problem, solved with lots of study and criativity.
 
-**Today, Julhe of 2019, this structure is still used, practically unchanged.**
+**Today, Feb/2020, this structure is still used, practically unchanged.**
 
 Interesting points of this project:
 

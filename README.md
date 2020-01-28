@@ -53,7 +53,7 @@ What | Where, When | Details
 ![PCB 2019](./images/IMG_20191115_091902.jpg) | Redmond, November 2019 | Partners Cloud Bootcamp, delivering a Cognitive Services session
 ![Ignite 2019](./images/ignite-orlando-vision-booth-nov-2019.PNG) | Orlando, November 2019 | Microsoft Ignite 2019. Working in the Vision Services Booth
 ![Ignite 2019](./images/20191104_144944758_iOS.jpg) | Orlando, November 2019 | Delivering an AI session in Microsoft Ignite for 120 people
-![Imapact](./images/impact-recog-ai-newsletter-oct-2019-new.PNG) | Bellevue, October 2019 | Impact recognition - Microsoft AI Newsletter
+![Imapact](./images/impact-recog-ai-newsletter-oct-2019-new.png) | Bellevue, October 2019 | Impact recognition - Microsoft AI Newsletter
 ![ICB](./images/rod-icb-oct-2019-2.JPG) | Seattle, October 2019 | AI session for 300 people in the Intelligent Cloud Bootcamp
 ![AI All Hands](./images/ai-all-hands-october-2019.PNG) | Bellevue, October 2019 | Presenting End-to-End AI Solutions to 700 people in the AI All Hands
 ![Badges](./images/badges.JPG) | Redmond, September 2019 | Certified Hackathon Leader, Gold Speaker, AI Engineer, and Trainer, among 10 other certifications

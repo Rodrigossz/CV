@@ -31,7 +31,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 + [Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [Cognitive Services Bootcamp - Computer Vision Bot](https://github.com/Azure/LearnAI-bootcamp)
 + [Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
-+ [Python Custom Skills Toolkit](https://github.com/Rodrigossz/Pyhton-Custom-Skills-Toolkit)
++ [Python Custom Skills Toolkit](https://github.com/Rodrigossz/Python-Custom-Skills-Toolkit)
 
 
 ### My Blog Posts on Microsoft Tech Community

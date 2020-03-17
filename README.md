@@ -115,7 +115,7 @@ The final data architecture is in the image below.
 
 ![IoT](./images/cool-arch.PNG)
 
-## Certificates
+## Microsoft Certificates
 
 Certifications | Certifications
 :---:|:---:
@@ -193,3 +193,7 @@ Photo | What, Where, and When
 ![My Office](./images/my-table.jpeg) | My office is always very organized, Microsoft Bellevue, June 2019
 ![Orlando](./images/rodrigo-mgx-2016.jpg)  | Professional LinkedIn photo, Microsoft MGX , Orlando, July 2016
 ![MeetUp](./images/meetup-analytics-em-tudo-Rio-april-2017.JPG) | Delivering an Azure Data Services on a MeetUP, Rio de Janeiro, April 2017
+![MIT](./images/MIT.PNG] | My MIT Certificate: Tackling The Challenges of Big Data
+![Old](./images/old-dips.jpg | My Old Diplomas: Microsoft, Sybase, Digital Unix, PUC (Data Mining -2005), FGV (Project Management), and Estacio de Sa (Networking)
+
+

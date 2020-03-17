@@ -82,6 +82,7 @@ What | Where, When | Details
 ![Ready Feb 2019](./images/ms-ready-feb-2019.jpeg) | Seattle, Febrauary 2019 | Cognitive Search session in Microsoft Ready for 100+ attendants
 ![KM Workshop](./images/kmw.PNG) | Redmond, January 2019 | **New format** that mixed pre-recorded (content) and live broadcast. You can see a small part of one video [here](https://www.youtube.com/watch?v=2hgFUENKqLs&t)
 ![MLADS](./images/mlads-2018.jpeg) | Redmond, November 2018 | Cognitive Search session for MLADS - Microsoft's Machine Learning and Data Science Conference
+![MS Ready 2018](./images/Ms-Ready-Las-Vegas-ago-2018.jpg) | Las Vegas, August 2018 | My Micrsoft Ready Session, 190 attendants
 ![First GBBs Airlift](./images/gbbs-ai-airlift-july-2018.jpeg) | Redmond, July 2018 | Intelligent Bots session (8 hours) for Microsoft GBBs
 ![KMB](./images/me-on-github.PNG) | Redmond, June 2018 | [KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) was my first of many commits into Azure GitHub repos.
 ![KMB](./images/cool-arch-kmb.PNG) | Redmond, June 2018 | [KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) launched at private preview time, with a long list of **inovations** like collaboration, princing, bot interface, Content Moderator custom skill, and alternative agendas

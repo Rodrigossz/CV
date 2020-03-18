@@ -122,7 +122,7 @@ Certifications | Certifications
 ![Msft1](./images/msft-certificate-1.JPG) | ![Msft2](./images/msft-certificate-2.JPG)
 ![Msft3](./images/msft-certificate-3.JPG) | ![Msft4](./images/msft-certificate-4.JPG)
 ![Msft5](./images/msft-certificate-5.JPG) | ![Msft6](./images/msft-certificate-6.JPG)
-![Msft7](./images/msft-certificate-7.JPG) | ![HP Vertica](./images/hp-cert.JPG)
+![Msft7](./images/msft-certificate-7.JPG) | ![MCT](./images/rodrigo-mct.jpg)
 
 ## Data Hub (or Data Lake) - PSafe - 5th most downloaded App in Play Store Brazil - 2014
 
@@ -193,6 +193,7 @@ Photo | What, Where, and When
 ![My Office](./images/my-table.jpeg) | My office is always very organized, Microsoft Bellevue, June 2019
 ![Orlando](./images/rodrigo-mgx-2016.jpg)  | Professional LinkedIn photo, Microsoft MGX , Orlando, July 2016
 ![MeetUp](./images/meetup-analytics-em-tudo-Rio-april-2017.JPG) | Delivering an Azure Data Services on a MeetUP, Rio de Janeiro, April 2017
+![HP Vertica](./images/hp-cert.JPG) | Frist Vertica DB Certified professional in LATAM
 ![MIT](./images/MIT.PNG) | My MIT Certificate: Tackling The Challenges of Big Data
 ![Old](./images/old-dips.jpg) | My Old Diplomas: Microsoft, Sybase, Digital Unix, PUC (Data Mining -2005), FGV (Project Management), and Estacio de Sa (Networking)
 

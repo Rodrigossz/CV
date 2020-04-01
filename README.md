@@ -26,7 +26,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Code on Azure GitHub Repos
 
-+ [Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp)
++ [Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) | Also available in [AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps/enterprise-knowledge-mining-bootcamp) 
 + [Learn AI Airlift](https://github.com/Azure/LearnAI-Airlift)
 + [Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
 + [Cognitive Services Bootcamp - Computer Vision Bot](https://github.com/Azure/LearnAI-bootcamp)

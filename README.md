@@ -119,10 +119,10 @@ The final data architecture is in the image below.
 
 Certifications | Certifications
 :---:|:---:
-![Msft1](./images/msft-certificate-1.JPG =100x20) | ![Msft2](./images/msft-certificate-2.JPG =100x20))
-![Msft3](./images/msft-certificate-3.JPG =100x20)) | ![Msft4](./images/msft-certificate-4.JPG =100x20))
-![Msft5](./images/msft-certificate-5.JPG =100x20)) | ![Msft6](./images/msft-certificate-6.JPG =100x20))
-![Msft7](./images/msft-certificate-7.JPG =100x20)) | ![MCT](./images/rodrigo-mct.jpg =100x20))
+![Msft1](./images/msft-certificate-1.JPG =100x20) | ![Msft2](./images/msft-certificate-2.JPG =100x20)
+![Msft3](./images/msft-certificate-3.JPG =100x20) | ![Msft4](./images/msft-certificate-4.JPG =100x20)
+![Msft5](./images/msft-certificate-5.JPG =100x20) | ![Msft6](./images/msft-certificate-6.JPG =100x20)
+![Msft7](./images/msft-certificate-7.JPG =100x20) | ![MCT](./images/rodrigo-mct.jpg =100x20)
 
 ## Data Hub (or Data Lake) - PSafe - 5th most downloaded App in Play Store Brazil - 2014
 

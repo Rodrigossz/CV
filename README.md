@@ -54,6 +54,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
 + [Announcing the Python Custom Skills Toolkit](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcing-the-python-custom-skills-toolkit/ba-p/1106493) **--> Innovation!!!**
 + [How to Organize your Data Lake](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-to-organize-your-data-lake/ba-p/1182562)
++ [How Bots Change your Data Architecture](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-bots-change-your-data-architecture/ba-p/1231059)
 
 ### My Work as Speaker / Presenter / Instructor
 

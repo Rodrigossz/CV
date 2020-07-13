@@ -26,6 +26,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Code on Azure GitHub Repos
 
++ [Azure Cosmos DB Sample Notebooks](https://github.com/Azure-Samples/cosmos-notebooks)
 + [Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) | Also available in [AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps/enterprise-knowledge-mining-bootcamp) 
 + [Learn AI Airlift](https://github.com/Azure/LearnAI-Airlift)
 + [Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
@@ -44,7 +45,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [MSSQL Toolkit](https://github.com/Rodrigossz/MSSQL-Toolkit)
 
 
-### My Blog Posts on Microsoft Tech Community
+### My Posts on Microsoft Official Blogs
 
 + [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)**--> Innovation!!!**
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
@@ -55,6 +56,8 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Announcing the Python Custom Skills Toolkit](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcing-the-python-custom-skills-toolkit/ba-p/1106493) **--> Innovation!!!**
 + [How to Organize your Data Lake](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-to-organize-your-data-lake/ba-p/1182562)
 + [How Bots Change your Data Architecture](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-bots-change-your-data-architecture/ba-p/1231059)
++ [Polyglot Persistence with Azure Data Services](https://techcommunity.microsoft.com/t5/data-architecture-blog/polyglot-persistence-with-azure-data-services/ba-p/1514912)
++ [Azure Cosmos DB for AI Engineers](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-ai-engineers/)
 
 ### My Work as Speaker / Presenter / Instructor
 

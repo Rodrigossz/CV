@@ -8,7 +8,7 @@ The next image is interesting. I created this CV visualization, the first image 
 
 Don't you think that this kind of CV is much more efficient than a regular one?
 
-![Visual CV](./images/cv2.JPG)
+![Visual CV](./images/cv3.JPG)
 
 ## Key Personal Links
 

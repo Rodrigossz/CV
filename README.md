@@ -24,15 +24,6 @@ Initially working with the LearnAI team, I was an AI Developer and Instructor. I
 
 In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
 
-### My Code on Azure GitHub Repos
-
-+ [Azure Cosmos DB Sample Notebooks](https://github.com/Azure-Samples/cosmos-notebooks)
-+ [Knowledge Mining Bootcamp -KMB](https://github.com/Azure/LearnAI-KnowledgeMiningBootcamp) | Also available in [AI School](https://aischool.microsoft.com/en-us/machine-learning/learning-paths/ai-platform-engineering-bootcamps/enterprise-knowledge-mining-bootcamp) 
-+ [Learn AI Airlift](https://github.com/Azure/LearnAI-Airlift)
-+ [Designing and Architecting Intelligent Agents](https://github.com/Azure/LearnAI-DesigningandArchitectingIntelligentAgents)
-+ [Cognitive Services Bootcamp - Computer Vision Bot](https://github.com/Azure/LearnAI-bootcamp)
-+ [Knowledge Mining Accelerator](https://github.com/Azure/AIPlatform/tree/master/CognitiveSearch/Deployment)
-
 ### My Toolkits - Personal GitHub Repos
 
 Some of them are pretty simple, while others are very complete. The fact is, I don't like rework or a mess. So I save and organize everything.

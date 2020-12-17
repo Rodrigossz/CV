@@ -1,6 +1,6 @@
 # Visual Detailed CV - Rodrigo Souza
 
-Details of my career as a data professional: Highligts, cool projects, videos and so on. The objective is to register, and to share, here what doen't fit into a "regular CV". At the end of the day, a picture is worth a thousand words. Like the image below, my collection of Conferences Badges. This CV has photos of some of these deliveries, as well as images and links for videos I recorded for Microsoft AI Organization.
+Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to register, and to share, here what doen't fit into a "regular CV". At the end of the day, a picture is worth a thousand words. Like the image below, my collection of Conferences Badges. This CV has photos of some of these deliveries, as well as images and links for videos I recorded for Microsoft AI Organization.
 
 ![Collection](./images/collection2.JPG)
 
@@ -10,7 +10,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ![Visual CV](./images/cv3.JPG)
 
-## Key Personal Links
+## Key Links
 
 + [LinkedIn Profile](https://www.linkedin.com/in/rodrigossz/)
 + [LinkedIn Articles](https://www.linkedin.com/in/rodrigossz/detail/recent-activity/posts/)
@@ -18,7 +18,13 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 + [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
 + [GitHub](https://github.com/Rodrigossz)
 
-## Senior Applied Data Scientist - Microsoft US (Nov/2017 - Today)
+
+## Senior Program Manager - Azure Cosmos DB Team (Feb/2020 - Today)
+
+Python SDK and Azure Synapse Link Program Manager. Retention analysis, customers feedbacks analysis, customers engagements, features planning, supportability, documentation, demos, conferences, webinars, support cases reviews, and content development.
+
+
+## Senior Applied Data Scientist - Microsoft US (Nov/2017 - Feb/2020)
 
 Initially working with the LearnAI team, I was an AI Developer and Instructor. I created and delived the trainings, that were end-to-end AI Solutions using multiple products like Cognitive Services, Azure Machine Learning, CosmosDB, Bots, among others. All content included theory materials and thands-on labs. I delivered in-person and online trainings, including  "train the trainers" courses and all of the biggests Microsoft conferences like Ready, Inspire, Ignite, and MLADS. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
 

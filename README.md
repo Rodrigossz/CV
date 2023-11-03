@@ -32,7 +32,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### My Toolkits - Personal GitHub Repos
 
-Some of them are pretty simple, while others are very complete. The fact is, I don't like rework or a mess. So I save and organize everything.
+Some of them are pretty simple, while others are very complete. The fact is, I don't like rework or a mess. So I have everything saved and organized.
 
 + [Python Custom Skills Toolkit](https://github.com/Rodrigossz/Python-Custom-Skills-Toolkit)
 + [PowerShell Tooklit](https://github.com/Rodrigossz/PowerShell-Toolkit)

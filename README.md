@@ -1,6 +1,6 @@
 # Visual Detailed CV - Rodrigo Souza
 
-Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to register, and to share, here what doen't fit into a "regular CV". At the end of the day, a picture is worth a thousand words. Like the image below, my collection of Conferences Badges. This CV has photos of some of these deliveries, as well as images and links for videos I recorded for Microsoft AI Organization.
+Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to register, and to share, here what doen't fit into a "regular CV". At the end of the day, a picture is worth a thousand words. Like the image below, my collection of Conferences Badges. This CV has photos of some of these deliveries, as well as images and links for videos I recorded for Microsoft AI and Data Organization.
 
 ![Collection](./images/collection2.JPG)
 

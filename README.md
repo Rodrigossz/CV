@@ -55,6 +55,12 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [How Bots Change your Data Architecture](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-bots-change-your-data-architecture/ba-p/1231059)
 + [Polyglot Persistence with Azure Data Services](https://techcommunity.microsoft.com/t5/data-architecture-blog/polyglot-persistence-with-azure-data-services/ba-p/1514912)
 + [Azure Cosmos DB for AI Engineers](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-ai-engineers/)
++ [Azure Synapse Link Custom Partitioning](https://devblogs.microsoft.com/cosmosdb/custom-partitioning-azure-synapse-link)
++ [Azure Synpase Link CDC from analytical store](https://devblogs.microsoft.com/cosmosdb/now-in-preview-change-data-capture-cdc-with-azure-cosmos-db-analytical-store)
++ [Azure Synapse Link for existing Containers](https://devblogs.microsoft.com/cosmosdb/azure-synapse-link-existing-containers-and-power-bi-integration)
++ [Azure Synapse Link for Gremlin](https://devblogs.microsoft.com/cosmosdb/azure-synapse-link-support-for-cosmos-db-gremlin-api-now-in-preview)
++ [New Power BI connector for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/enabling-real-time-dashboards-azure-cosmos-db-now-supports-power-bi-directquery-mode-and-dataflows-in-preview)
++ [Azure Synapse Link Updates](https://devblogs.microsoft.com/cosmosdb/new-features-for-azure-synapse-link-for-azure-cosmos-db/)
 
 ### My Work as Speaker / Presenter / Instructor
 

@@ -61,6 +61,9 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Azure Synapse Link for Gremlin](https://devblogs.microsoft.com/cosmosdb/azure-synapse-link-support-for-cosmos-db-gremlin-api-now-in-preview)
 + [New Power BI connector for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/enabling-real-time-dashboards-azure-cosmos-db-now-supports-power-bi-directquery-mode-and-dataflows-in-preview)
 + [Azure Synapse Link Updates](https://devblogs.microsoft.com/cosmosdb/new-features-for-azure-synapse-link-for-azure-cosmos-db/)
++ [Binary Encoding for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/announcing-cost-and-performance-improvements-with-azure-cosmos-dbs-binary-encoding/)
++ [Fabric API for GQL for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/microsoft-fabric-api-for-graphql-for-azure-cosmos-db-mirroring/)
++ [Cost Reduction with Azure Cosmos DB Reserved Capacity](https://devblogs.microsoft.com/cosmosdb/optimize-your-azure-cosmos-db-costs-with-new-reserved-capacity-tiers/)
 
 ### My Work as Speaker / Presenter / Instructor
 

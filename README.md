@@ -21,7 +21,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ## Senior Program Manager - Azure Cosmos DB Team (Feb/2020 - Today)
 
-Python SDK and Azure Synapse Link Program Manager. Retention analysis, customers feedbacks analysis, customers engagements, features planning, supportability, documentation, demos, conferences, webinars, support cases reviews, and content development.
+Program manager for Python SDK, ODBC connector, Power BI connector, Azure Synapse Link, Reserved Capacity, binary encoding, tiered storage, Fabric mirroring, Cosmos DB in Fabric, and billing. Retention analysis, customers feedbacks analysis, customers engagements, features planning, supportability, documentation, demos, conferences, webinars, support cases reviews, and content development.
 
 
 ## Senior Applied Data Scientist - Microsoft US (Nov/2017 - Feb/2020)

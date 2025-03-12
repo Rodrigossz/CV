@@ -33,7 +33,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### Cloud Solutions Architect for Data & AI - Microsoft BR (Dec/2015 - Nov/2017
 
-Data & AI projects for Microsoft enterprise clients, driving Analytics, Big Data, Data Science and IoT, using Azure Data Services. Architecture Design Sessions, POCs, RFPs, RFIs, workshops and hackathons for clients and partners. Microsoft Speaker at Meetups and Universities.
+Data & AI projects for Microsoft enterprise clients, driving Analytics, Big Data, Data Science and IoT, using Azure Data Services. Architecture Design Sessions, POCs, RFPs, RFIs, workshops and hackathons for clients and partners. Microsoft Speaker at Meetups and Universities. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
 
 ## Toolkits - Personal GitHub Repos
 
@@ -46,7 +46,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Oracle Toolkit](https://github.com/Rodrigossz/Oracle-Toolkit)
 + [MSSQL Toolkit](https://github.com/Rodrigossz/MSSQL-Toolkit)
 
-### Microsoft Youtube Videos
+## Microsoft Youtube Videos
 
 + [How to build an Azure Cosmos DB Jupyter Notebook to do anomaly detection](https://www.youtube.com/watch?v=x51LvBC5QTs)
 + [Analytics with Analytical Store CDC and V2 Connector for Power BI](https://www.youtube.com/watch?v=U6K9P-1snd0)
@@ -58,7 +58,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Microsoft AI - Content Moderator Webinar](https://www.youtube.com/watch?v=lrCkzINAFQQ)
 + [Microsoft AI - Knowledge Mining with Cognitive Search](https://www.youtube.com/watch?v=ll10PTrV0oM)
 
-### Microsoft Blog Posts
+## Microsoft Blog Posts
 
 + [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
@@ -81,7 +81,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Fabric API for GQL for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/microsoft-fabric-api-for-graphql-for-azure-cosmos-db-mirroring/)
 + [Cost Reduction with Azure Cosmos DB Reserved Capacity](https://devblogs.microsoft.com/cosmosdb/optimize-your-azure-cosmos-db-costs-with-new-reserved-capacity-tiers/)
 
-### Work as Speaker / Presenter / Instructor
+## Work as Speaker / Presenter / Instructor
 
 I have been delivering sessions and trainings since Nov/2017, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, AI Airlifts, Inspire, Ignite, and Microsoft Ready. 
 
@@ -121,9 +121,7 @@ What | Where, When | Details
 ![London](./images/london-feb-2018-ai-bootcamp.PNG) | London, February 2018 | Delivered the [Cognitive Services Bootcamp](https://github.com/Azure/LearnAI-Bootcamp): Cognitive Services, CosmosDb, Azure Search, and Bots
 ![ICB](./images/icb-feb-2018.jpg) | Bellevue, Februrary 2018 | Intelligent Cloud Bootcamp session, with [Buck Woody](https://twitter.com/BuckWoodyMSFT), about AI and DevOps
 
-## Cloud Solutions Architect - Microsoft Brazil (Nov/2015 - Nov/2017)
-
-Some cool projects from my Azure CSA role, from Nov 2015 until Nov 2017. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
+## Key Projects
 
 ### IoT + Modern Data Warehouse solution for Wind Farms - August 2017
 

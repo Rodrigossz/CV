@@ -18,19 +18,24 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 + [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
 + [GitHub](https://github.com/Rodrigossz)
 
+## Last roles
 
-## Senior Program Manager - Azure Cosmos DB Team (Feb/2020 - Today)
+### Senior Program Manager - Azure Cosmos DB Team (Feb/2020 - Today)
 
 Program manager for Python SDK, ODBC connector, Power BI connector, Azure Synapse Link, Reserved Capacity, binary encoding, tiered storage, Fabric mirroring, Cosmos DB in Fabric, and billing. Retention analysis, customers feedbacks analysis, customers engagements, features planning, supportability, documentation, demos, conferences, webinars, support cases reviews, and content development.
 
 
-## Senior Applied Data Scientist - Microsoft US (Nov/2017 - Feb/2020)
+### Senior Applied Data Scientist - Microsoft US (Nov/2017 - Feb/2020)
 
 Initially working with the LearnAI team, I was an AI Developer and Instructor. I created and delived the trainings, that were end-to-end AI Solutions using multiple products like Cognitive Services, Azure Machine Learning, CosmosDB, Bots, among others. All content included theory materials and thands-on labs. I delivered in-person and online trainings, including  "train the trainers" courses and all of the biggests Microsoft conferences like Ready, Inspire, Ignite, and MLADS. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
 
 In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
 
-### Toolkits - Personal GitHub Repos
+### Cloud Solutions Architect for Data & AI - Microsoft BR (Dec/2015 - Nov/2017
+
+Data & AI projects for Microsoft enterprise clients, driving Analytics, Big Data, Data Science and IoT, using Azure Data Services. Architecture Design Sessions, POCs, RFPs, RFIs, workshops and hackathons for clients and partners. Microsoft Speaker at Meetups and Universities.
+
+## Toolkits - Personal GitHub Repos
 
 Some of them are pretty simple, while others are very complete. The fact is, I don't like re-work or a messy data. So I have everything saved and organized.
 

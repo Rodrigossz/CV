@@ -53,7 +53,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Microsoft AI - Content Moderator Webinar](https://www.youtube.com/watch?v=lrCkzINAFQQ)
 + [Microsoft AI - Knowledge Mining with Cognitive Search](https://www.youtube.com/watch?v=ll10PTrV0oM)
 
-### Post in Microsoft Official Blogs
+### Microsoft Blog Posts
 
 + [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill

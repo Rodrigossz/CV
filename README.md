@@ -30,7 +30,7 @@ Initially working with the LearnAI team, I was an AI Developer and Instructor. I
 
 In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
 
-### My Toolkits - Personal GitHub Repos
+### Toolkits - Personal GitHub Repos
 
 Some of them are pretty simple, while others are very complete. The fact is, I don't like re-work or a messy data. So I have everything saved and organized.
 
@@ -41,6 +41,17 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Oracle Toolkit](https://github.com/Rodrigossz/Oracle-Toolkit)
 + [MSSQL Toolkit](https://github.com/Rodrigossz/MSSQL-Toolkit)
 
+### Microsoft Youtube Videos
+
++ [How to build an Azure Cosmos DB Jupyter Notebook to do anomaly detection](https://www.youtube.com/watch?v=x51LvBC5QTs)
++ [Analytics with Analytical Store CDC and V2 Connector for Power BI](https://www.youtube.com/watch?v=U6K9P-1snd0)
++ [Intro to Azure Cosmos DB Python SDK ](https://www.youtube.com/watch?v=RtQFu_YTDs4)
++ [Learn Live: Azure Cosmos DB: Learn how to enable analytics over real-time operational data](https://www.youtube.com/watch?v=qsc-ASYfebw)
++ [HTAP Analytics with Azure Synapse Link for Azure Cosmos DB](https://www.youtube.com/watch?v=-1zyL56TaQQ)
++ [Deep dive into Azure Synapse Link for Azure Cosmos DB](https://www.youtube.com/watch?v=Wr1Cuhq7c0Y)
++ [Microsoft AI - Knowledge Mining Workshop](https://www.youtube.com/watch?v=2hgFUENKqLs)
++ [Microsoft AI - Content Moderator Webinar](https://www.youtube.com/watch?v=lrCkzINAFQQ)
++ [Microsoft AI - Knowledge Mining with Cognitive Search](https://www.youtube.com/watch?v=ll10PTrV0oM)
 
 ### Post in Microsoft Official Blogs
 
@@ -68,19 +79,6 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 ### Work as Speaker / Presenter / Instructor
 
 I have been delivering sessions and trainings since Nov/2017, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, AI Airlifts, Inspire, Ignite, and Microsoft Ready. 
-
-#### Microsoft Youtube Videos
-
-+ [How to build an Azure Cosmos DB Jupyter Notebook to do anomaly detection](https://www.youtube.com/watch?v=x51LvBC5QTs)
-+ [Analytics with Analytical Store CDC and V2 Connector for Power BI](https://www.youtube.com/watch?v=U6K9P-1snd0)
-+ [Intro to Azure Cosmos DB Python SDK ](https://www.youtube.com/watch?v=RtQFu_YTDs4)
-+ [Learn Live: Azure Cosmos DB: Learn how to enable analytics over real-time operational data](https://www.youtube.com/watch?v=qsc-ASYfebw)
-+ [HTAP Analytics with Azure Synapse Link for Azure Cosmos DB](https://www.youtube.com/watch?v=-1zyL56TaQQ)
-+ [Deep dive into Azure Synapse Link for Azure Cosmos DB](https://www.youtube.com/watch?v=Wr1Cuhq7c0Y)
-+ [Microsoft AI - Knowledge Mining Workshop](https://www.youtube.com/watch?v=2hgFUENKqLs)
-+ [Microsoft AI - Content Moderator Webinar](https://www.youtube.com/watch?v=lrCkzINAFQQ)
-+ [Microsoft AI - Knowledge Mining with Cognitive Search](https://www.youtube.com/watch?v=ll10PTrV0oM)
-
 
 
 What | Where, When | Details

@@ -44,13 +44,13 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 
 ### My Posts on Microsoft Official Blogs
 
-+ [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)**--> Innovation!!!**
++ [Mine Knwoledge from Files names and paths using a Python Custom Skill](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-Knowledge-of-File-Names-and-Paths-with-a-Python-Custom/ba-p/1047929)
 + [Using Azure-Functions-for-Python to create a Cognitive Search Filtering Custom Skill
-](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106) **--> Innovation!!!**
+](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Using-Azure-Functions-for-Python-to-create-a-Cognitive-Search/ba-p/850106)
 + [Announcement: Knowledge Mining Solution Accelerator (KMA v1.0)](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Announcement-Knowledge-Mining-Solution-Accelerator-KMA-v1-0/ba-p/805889)
-+ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957) **--> Innovation!!!**
++ [Learn How to Mine Knowledge from Audio Files](https://techcommunity.microsoft.com/t5/AI-Customer-Engineering-Team/Mine-knowledge-from-audio-files-with-Microsoft-AI/ba-p/781957)
 + [Learn How to Create End-to-End Solutions with Microsoft AI](http://aka.ms/Learn-Microsoft-AI)
-+ [Announcing the Python Custom Skills Toolkit](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcing-the-python-custom-skills-toolkit/ba-p/1106493) **--> Innovation!!!**
++ [Announcing the Python Custom Skills Toolkit](https://techcommunity.microsoft.com/t5/ai-customer-engineering-team/announcing-the-python-custom-skills-toolkit/ba-p/1106493)
 + [How to Organize your Data Lake](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-to-organize-your-data-lake/ba-p/1182562)
 + [How Bots Change your Data Architecture](https://techcommunity.microsoft.com/t5/data-architecture-blog/how-bots-change-your-data-architecture/ba-p/1231059)
 + [Polyglot Persistence with Azure Data Services](https://techcommunity.microsoft.com/t5/data-architecture-blog/polyglot-persistence-with-azure-data-services/ba-p/1514912)
@@ -71,6 +71,7 @@ I have been delivering sessions and trainings since Nov/2017, in the most import
 
 What | Where, When | Details
 :---:|:---:|:---
+![PCB 2019](./images/IMG_20191115_1731437725499.jpg) | Redmond, December 2024 | My first patent
 ![PCB 2019](./images/IMG_20191115_091902.jpg) | Redmond, November 2019 | Partners Cloud Bootcamp, delivering a Cognitive Services session
 ![Ignite 2019](./images/ignite-orlando-vision-booth-nov-2019.PNG) | Orlando, November 2019 | Microsoft Ignite 2019. Working in the Vision Services Booth
 ![Ignite 2019](./images/20191104_144944758_iOS.jpg) | Orlando, November 2019 | Delivering an AI session in Microsoft Ignite for 120 people

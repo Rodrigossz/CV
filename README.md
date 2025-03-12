@@ -83,7 +83,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 
 
 
-## Images
+## Key Images - Microsoft
 
 What | Where, When | Details
 :---:|:---:|:---

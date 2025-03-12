@@ -71,7 +71,7 @@ I have been delivering sessions and trainings since Nov/2017, in the most import
 
 What | Where, When | Details
 :---:|:---:|:---
-![PCB 2019](./images/1731437725166.jpg) | Redmond, December 2024 | My first patent!! Second one was just approved!!
+![PCB 2019](./images/1731437725499.jpg) | Redmond, December 2024 | My first patent!! Second one was just approved!!
 ![PCB 2019](./images/IMG_20191115_091902.jpg) | Redmond, November 2019 | Partners Cloud Bootcamp, delivering a Cognitive Services session
 ![Ignite 2019](./images/ignite-orlando-vision-booth-nov-2019.PNG) | Orlando, November 2019 | Microsoft Ignite 2019. Working in the Vision Services Booth
 ![Ignite 2019](./images/20191104_144944758_iOS.jpg) | Orlando, November 2019 | Delivering an AI session in Microsoft Ignite for 120 people

@@ -48,7 +48,7 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 
 ## Microsoft Youtube Videos
 
-+ [How to build an Azure Cosmos DB Jupyter Notebook to do anomaly detection](https://www.youtube.com/watch?v=x51LvBC5QTs)
++ [How to build an Azure Cosmos DB Jupyter Notebook for anomaly detection](https://www.youtube.com/watch?v=x51LvBC5QTs)
 + [Analytics with Analytical Store CDC and V2 Connector for Power BI](https://www.youtube.com/watch?v=U6K9P-1snd0)
 + [Intro to Azure Cosmos DB Python SDK ](https://www.youtube.com/watch?v=RtQFu_YTDs4)
 + [Learn Live: Azure Cosmos DB: Learn how to enable analytics over real-time operational data](https://www.youtube.com/watch?v=qsc-ASYfebw)

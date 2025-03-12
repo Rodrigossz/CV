@@ -81,10 +81,9 @@ Some of them are pretty simple, while others are very complete. The fact is, I d
 + [Fabric API for GQL for Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/microsoft-fabric-api-for-graphql-for-azure-cosmos-db-mirroring/)
 + [Cost Reduction with Azure Cosmos DB Reserved Capacity](https://devblogs.microsoft.com/cosmosdb/optimize-your-azure-cosmos-db-costs-with-new-reserved-capacity-tiers/)
 
-## Work as Speaker / Presenter / Instructor
 
-I have been delivering sessions and trainings since Nov/2017, in the most important Microsoft conferences: MLADS, Intelligent Cloud Bootcamp, AI Airlifts, Inspire, Ignite, and Microsoft Ready. 
 
+## Images
 
 What | Where, When | Details
 :---:|:---:|:---
@@ -141,17 +140,7 @@ The final data architecture is in the image below.
 
 ![IoT](./images/cool-arch.PNG)
 
-## Microsoft Certificates
-
-Certificates | Certificates
-:---:|:---:
-![1](./images/msft-certificate-1.JPG) | ![2](./images/msft-certificate-2.JPG)
-![3](./images/msft-certificate-3.JPG) | ![4](./images/msft-certificate-4.JPG) 
-![5](./images/msft-certificate-5.JPG) | ![6](./images/msft-certificate-6.JPG) 
-![7](./images/msft-certificate-7.JPG) | 
-
-
-## Data Hub (or Data Lake) - PSafe - 5th most downloaded App in Play Store Brazil - 2014
+### Data Hub (or Data Lake) - PSafe - 5th most downloaded App in Play Store Brazil - 2014
 
 PSafe reached 30MM of MAU, all generating a gigantic amount of LOGs. Something like 1 TB a day. Hadoop was used by it was hard to understand and to use the data. I worked there before and returned to the company as a leader in the data area, to reorganize the data infrastructure. We created a data lake to make sure we were storing and analysing the correct data.
 
@@ -164,7 +153,7 @@ Data Architecture 1  | Data Architecture 2 | Data Architecture 3
 ![PSafe1](./images/psafe-data-arch1.PNG) | ![PSafe2](./images/psafe-data-arch2.PNG) | ![PSafe3](./images/psafe-data-arch3.PNG)
 ![PSafe4](./images/psafe-data-arch4.PNG) | ![PSafe5](./images/psafe-data-arch5.PNG) | ![PSafe6](./images/psafe-data-arch6.PNG)
 
-## Innovation - Created a MPP DW in 2008
+### MPP DW in 2008
 
 I am very proud of this project. Using SQL Server 2008 RS, [Microsoft Fast Track Reference Architecture](https://www.jamesserra.com/archive/2011/09/microsoft-sql-server-reference-architecture-and-appliances/), and very simple HW, I created a MPP DW for Lemon Bank, where I was working since 2002. I had to find a way to scale out, since the data volume was bigger than the total space of the biggest server available. A real Big Data problem, solved with lots of study and criativity.
 
@@ -177,28 +166,27 @@ Interesting points of this project:
 + Self Service BI on top of this, with Excel and a dynamic query interface too.
 + This project won The Brazilian Bank Industry Award (CIAB) in 2008.
 
-MPP Database | ETL | Trophy
 :---:|:---:|:---:
 ![MPP1](./images/lemon-mpp.PNG) | ![MPP2](./images/lemon-mpp-2.PNG) | ![Award2](./images/lemon-trofeu-2008-ciab2.jpg)
 My "handmande" distributed database | ETL Architecture | The project award
 
-## To Be Added - Data Lake in a Brazilian E-Commerce Giant
+### To Be Added - Data Lake in a Brazilian E-Commerce Giant
 
-## To Be Added - Big Data Practice Leader in HP - 2012
+### To Be Added - Big Data Practice Leader in HP - 2012
 
-## To Be Added - Innovation award in a HP - 2013
+### To Be Added - Innovation award in a HP - 2013
 
-## Out-of-box thinking to solve database performance issues - 2011
+### Sybase performance issues - 2011
 
-I was contracted by EDS to help a bank with performance problems in their transactional database. All experts before me suggested HW upgrades, what did not fixed the problem. How could I succeed when HP, IBM, and Accenture consultants failed? I had to do somthing different and for me it was clear that the problem was in the application.
+I was contracted by EDS to help a bank with performance problems in their transactional database. All experts before me suggested HW upgrades, what did not fixed the problem. How could I succeed when HP, IBM, and Accenture consultants failed? I had to do something different and for me it was clear that the problem was in the application.
 
-What I did different? I asked the client to see the code! After some resistence, I was allowed to audit the application and I found multiple problems. We fixed one by one and the deployment day was on 9/11/2011. For many reasons, an unforgettable day.
+What I did different? I asked the client to see the code! After some resistence, I was allowed to audit the application and I found multiple problems. We fixed one by one and the deployment day was on 9/11/2011. For many reasons, an unforgettable day. The system throughput got 10x faster.
 
 Last winter I created a LinkedIn articles series about my lessons learned as a DBA. It was called **DBA TALES FROM THE CRYPT** and this project was detailed [here](https://www.linkedin.com/pulse/chapter-1-9112001-rodrigo-souza/).
 
 ![DBA Tales from the Crypt](./images/dba-tales.jpg)
 
-## Innovation - Agile methods - Lemon Bank 2007
+### Agile methods - Lemon Bank 2007
 
 In 2007 I was really angry with the lack of organization within the IT department. As a DBA, I was affected because I could not organize my work, and I was managing the data area. In that year, a friend returned from France where he did a PhD and learned about SCRUM. Back to Brazil, he acquired remarkable knowledge and experience on agile methods, including Kanban. He ended up opening a training company and called me for a presentation. I immediately identified the value of all that and also began to study the subject.
 
@@ -206,11 +194,20 @@ It is not common to see the DBA introducing a project management methodology in 
 
 The DBA team started to use Kanban in 2007, what helped not only our own work, but also to measure the impact of the others teams lack of methodology on us. I'm also a person with lots of connections and I helped my friend to sell one of his first in-company agile trainings. The client was a friend's software company that never heard about Agile before. Today, 2019, my Agile expert friend still have his consulting company, with dozens of employess and hundreds of clients. And my friend's software company is still using agile methods for all of its operations.
 
-## Innovation awarded - Lemon Bank - 2006
+### Innovation awarded - Lemon Bank - 2006
 
 In 2008 I was working for this Fintech and the all company was challenged to create a product to increase revenew. It was not expected  that someone from IT would give a suggestion to the business area. But I'm very creativity and I won it! I suggested a remuneration model for the employees of the affiliated networks. The screenshot below is a screenshot of the bank's intranet, with my photo illustrating the winning idea. The project was implementing and worked as expected
 
 ![Lemon Bank Intranet](./images/intranet-lemon.jpg)
+
+## Microsoft Certificates
+
+Certificates | Certificates
+:---:|:---:
+![1](./images/msft-certificate-1.JPG) | ![2](./images/msft-certificate-2.JPG)
+![3](./images/msft-certificate-3.JPG) | ![4](./images/msft-certificate-4.JPG) 
+![5](./images/msft-certificate-5.JPG) | ![6](./images/msft-certificate-6.JPG) 
+![7](./images/msft-certificate-7.JPG) | 
 
 ## Other Photos
 

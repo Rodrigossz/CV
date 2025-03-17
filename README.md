@@ -18,7 +18,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 + [Youtube Channel](https://www.youtube.com/channel/UCZ_z0MqG2XMyxAE18V6NF1A)
 + [GitHub](https://github.com/Rodrigossz)
 
-## Latest roles
+## Recent roles
 
 ### Senior Program Manager - Azure Cosmos DB Team (Feb/2020 - Today)
 

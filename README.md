@@ -1,12 +1,10 @@
 # Visual Detailed CV - Rodrigo Souza
 
-Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to share information that doesn't fit into a "regular CV". At the end of the day, a picture is worth a thousand words. Like the image below, my collection of Conferences Badges. This CV has photos of some of these deliveries, as well as images and links for videos I recorded for Microsoft AI and Data Organizations.
+Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to share information that doesn't fit into a "regular CV". This CV has photos of some of these deliveries, achievements, as well as images and links for videos I recorded for Microsoft.
 
 ![Collection](./images/collection2.JPG)
 
-The next image is interesting. I created this CV visualization, the first image below, for a "Data Scientist Role" presentation. I also used it into my [How I became a Data Scientist](https://www.linkedin.com/pulse/how-did-i-become-data-scientist-rodrigo-souza/), which had thousands of visualizations. This image was also useful to help me understand how much my career has changed, how I went from reactive to proactive in terms of adopting new technologies. I really like to be an early adopter for new technologies.
-
-Don't you think that this kind of CV is much more efficient than a regular one?
+The next image is graphic career visualization. It's also used  in my [How I became a Data Scientist](https://www.linkedin.com/pulse/how-did-i-become-data-scientist-rodrigo-souza/) LinkedIn article, which had thousands of visualizations. This image was also useful to help me understand how much my career has changed, how I went from reactive to proactive in terms of adopting new technologies. I really like to be an early adopter for new technologies.
 
 ![Visual CV](./images/cv3.JPG)
 

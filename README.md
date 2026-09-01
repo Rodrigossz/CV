@@ -56,7 +56,7 @@ In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engageme
 
 ### Cloud Solutions Architect for Data & AI - Microsoft BR - CSAs Team (Dec/2015 - Nov/2017
 
-Data & AI projects for Microsoft enterprise clients, driving Analytics, Big Data, Data Science and IoT, using Azure Data Services. Architecture Design Sessions, POCs, RFPs, RFIs, workshops and hackathons for clients and partners. Microsoft Speaker at Meetups and Universities. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
+Data & AI projects for Microsoft enterprise clients, driving Analytics, Big Data, Data Science and IoT, using Azure Data Services. Architecture Design Sessions, POCs, RFPs, RFIs, workshops and hackathons for clients and partners. Microsoft Speaker at Meetups and Universities. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. Two of my customers became TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects drove this adoption growth.
 
 ## Toolkits - Personal GitHub Repos
 

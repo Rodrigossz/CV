@@ -20,18 +20,38 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ## Recent roles
 
-### Senior Program Manager - Azure Cosmos DB Team (Feb/2020 - Today)
+### Senior Cosmos DB Architect Manager - KForce (July/2025 - Feb/2026)
 
-Program manager for Python SDK, ODBC connector, Power BI connector, Azure Synapse Link, Reserved Capacity, binary encoding, tiered storage, Fabric mirroring, Cosmos DB in Fabric, and billing. Retention analysis, customers feedbacks analysis, customers engagements, features planning, supportability, documentation, demos, conferences, webinars, support cases reviews, and content development.
+Azure Cosmos DB architect for a MDM project:
+ + Cost analysis
+ + Performance requirements
+ + Security requirements
+ + Data architecture
+ + Data Engineering
+ + Implementation of a bulk load using Python, devOps templates for CI/CD, and of all architecture diagrams.
 
 
-### Senior Applied Data Scientist - Microsoft US (Nov/2017 - Feb/2020)
+
+### Senior Program Manager - Microsoft US - Azure Cosmos DB Team (Feb/2020 - May/2025)
+
+Retention analysis, customers feedbacks analysis, customers engagements, features planning, supportability, documentation, demos, conferences, webinars, support cases reviews, and content development for:
+ + Python SDK: Using customers feedback, increased usage from 0.02% to 10% of the accounts with clear roadmap, list of limitations and workarounds, examples, structured support channels. 
+ + ODBC connector and Power BI connector: New performance and security versions, retirement of old versions.
+ + Azure Synapse Link: By far, the most successful SL implementation on Azure. Adoption from 0% to 10% of the customers, 25% of the accounts. Created and implemented a roadmap based on feedback from customers with real usage in real No-ETL analytics projects. Helped customers journey from deployment to performance troubleshooting and billing.
+ + Reserved Capacity: Designed and implemented a project that increased adoption from 5% to 20% of the customers. 
+ + Tiered storage: Defined the design of the feature with customers asks, feature financial impact, and roadmap. **Awarded with a Patent: Hybrid Tiered Storage for Cloud Platforms**.
+ + Binary encoding: Helped the deployment of the feature by selecting and migrating customers, one by one, based on the applications impact and performance benefit. 
+ + Fabric mirroring: Helped to implement Cosmos DB in Fabric
+ + Billing: Detection and resolution of key issues by fixing the billing pipelines, trainings for the support, planning, retiring of old meters.
+
+
+### Senior Applied Data Scientist - Microsoft US - Learn AI Team (Nov/2017 - Feb/2020)
 
 Initially working with the LearnAI team, I was an AI Developer and Instructor. I created and delived the trainings, that were end-to-end AI Solutions using multiple products like Cognitive Services, Azure Machine Learning, CosmosDB, Bots, among others. All content included theory materials and thands-on labs. I delivered in-person and online trainings, including  "train the trainers" courses and all of the biggests Microsoft conferences like Ready, Inspire, Ignite, and MLADS. I had the opportunity to teach AI in Redmond, Seattle, Bellevue, Bogota, Sao Paulo, London, Lisbon, Singapore, Sydney, Amsterdam, New York, Orlando, and Dallas.
 
 In March 2019 we became [ACE](http://aka.ms/ACE-Blog) Team, AI Customer Engagements. We work on AI critical projects with ISVs, GSIs, and special customers. The job is to help critical AI projects, from trainings to MVPs development. The engagements can go from a few hours to months. At the end of the project, we share the lessons learned with the community trough conference sessions, videos, and blog posts.
 
-### Cloud Solutions Architect for Data & AI - Microsoft BR (Dec/2015 - Nov/2017
+### Cloud Solutions Architect for Data & AI - Microsoft BR - CSAs Team (Dec/2015 - Nov/2017
 
 Data & AI projects for Microsoft enterprise clients, driving Analytics, Big Data, Data Science and IoT, using Azure Data Services. Architecture Design Sessions, POCs, RFPs, RFIs, workshops and hackathons for clients and partners. Microsoft Speaker at Meetups and Universities. During this period, I worked with some of the largest companies in Brazil, helping their journeys to cloud computing. One of them has increased cloud consumption by dozens of times, becoming TOP 3 Azure customers in Brazil.  IoT, AI, and Data Lake projects helped drive this adoption growth.
 

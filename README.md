@@ -20,7 +20,7 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 ## Recent roles
 
-### Senior Cosmos DB Architect Manager - KForce (July/2025 - Feb/2026)
+### Senior Cosmos DB Architect - KForce (July/2025 - Feb/2026)
 
 Azure Cosmos DB architect for a MDM project:
  + Cost analysis

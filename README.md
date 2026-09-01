@@ -24,11 +24,13 @@ Don't you think that this kind of CV is much more efficient than a regular one?
 
 Azure Cosmos DB architect for a MDM project:
  + Cost analysis
- + Performance requirements
- + Security requirements
+ + Performance
+ + Security
+ + High availability
  + Data architecture
- + Data Engineering
- + Implementation of a bulk load using Python, devOps templates for CI/CD, and of all architecture diagrams.
+ + Data engineering
+ + Bulk load using Python
+ + DevOps templates for CI/CD
 
 
 

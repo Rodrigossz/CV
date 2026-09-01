@@ -1,6 +1,6 @@
 # Visual Detailed CV - Rodrigo Souza
 
-Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to share information that doesn't fit into a "regular CV". This CV has photos of some of these deliveries, achievements, as well as images and links for videos I recorded for Microsoft.
+Details of my career as a "Data Professional": Highligts, cool projects, videos and so on. The objective is to share information that doesn't fit into a "regular CV".
 
 ![Collection](./images/collection2.JPG)
 

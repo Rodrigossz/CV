@@ -45,6 +45,9 @@ Retention analysis, customers feedbacks analysis, customers engagements, feature
  + Binary encoding: Helped the deployment of the feature by selecting and migrating customers, one by one, based on the applications impact and performance benefit. 
  + Fabric mirroring: Helped to implement Cosmos DB in Fabric: roadmap, features definitions, GraphicQL integration.
  + Billing: Detection and resolution of key issues by fixing the billing pipelines, trainings for the support, planning, retiring of old meters.
+ + Keynotes in multiple Microsoft conferences: Ready, Inspire, Cosmos DB Conference, MLADS.
+ + Created AI sample notebooks integrating Azure Cosmos DB and Azure Cognitive Services, available in the azure portal and in the documentation.
+ + Total of 9 badges of key contributor for Azure Data documentation.
 
 
 ### Senior Applied Data Scientist - Microsoft US - Learn AI Team (Nov/2017 - Feb/2020)

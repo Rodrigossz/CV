@@ -43,7 +43,7 @@ Retention analysis, customers feedbacks analysis, customers engagements, feature
  + Reserved Capacity: Designed and implemented a project that increased adoption from 5% to 20% of the customers. 
  + Tiered storage: Defined the design of the feature with customers asks, feature financial impact, and roadmap. **Awarded with a Patent: Hybrid Tiered Storage for Cloud Platforms**.
  + Binary encoding: Helped the deployment of the feature by selecting and migrating customers, one by one, based on the applications impact and performance benefit. 
- + Fabric mirroring: Helped to implement Cosmos DB in Fabric
+ + Fabric mirroring: Helped to implement Cosmos DB in Fabric: roadmap, features definitions, GraphicQL integration.
  + Billing: Detection and resolution of key issues by fixing the billing pipelines, trainings for the support, planning, retiring of old meters.
 
 

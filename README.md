@@ -20,14 +20,15 @@ The next image is graphic career visualization. It's also used  in my [How I bec
 
 ### Senior Cosmos DB Architect - KForce (July/2025 - Feb/2026)
 
-Azure Cosmos DB architect for a MDM project:
+Azure Cosmos DB architect for a MDM project for a healthcare client. Definition and implementation of:
  + Cost analysis
- + Performance
+ +  Data architecture and integration
+ + Data model and indexing policy
+ + Retention policy
+ + Performance requirements and optimization
  + Security
- + High availability
- + Data architecture
- + Data engineering
- + Bulk load using Python
+ + High availability and disaster recovery
+ + Data engineering: Bulk load using Python, transactions propagation using Change Feed and Azure Functions
  + DevOps templates for CI/CD
 
 
